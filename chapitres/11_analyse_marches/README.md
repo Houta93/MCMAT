@@ -1,61 +1,35 @@
-# Chapitre 8 : Analyse du Marché Algérien
+# Chapitre 11 : Analyse des Marchés
 
-## Objectif du chapitre
-Ce chapitre présente l'analyse détaillée du marché algérien des carrelages, avec un focus particulier sur le segment des carrelages décoratifs et sur mesure, ainsi que les stratégies de pénétration du marché local.
+Ce chapitre analyse les différents marchés cibles : algérien, africains et européens, ainsi que la concurrence et le positionnement stratégique.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 8.1 Taille et structure du marché
-- Évaluation du marché algérien des carrelages
-- Segmentation par types de produits
-- Évolution historique et tendances
-- Potentiel du segment des carrelages décoratifs
-- Estimation de la part de marché accessible
+### 11.1 Marché algérien
+#### 11.1.1 Segmentation détaillée
+#### 11.1.2 Taille et croissance
+#### 11.1.3 Comportement des consommateurs
+#### 11.1.4 Canaux de distribution
 
-### 8.2 Segmentation et ciblage
-- Identification des segments de clientèle
-- Profils des clients potentiels
-- Besoins spécifiques par segment
-- Segments prioritaires et secondaires
-- Stratégie de ciblage
+### 11.2 Marchés africains
+#### 11.2.1 Pays cibles prioritaires
+#### 11.2.2 Opportunités d'exportation
+#### 11.2.3 Barrières à l'entrée
+#### 11.2.4 Stratégies de pénétration
 
-### 8.3 Analyse de la concurrence
-- Principaux concurrents sur le marché algérien
-- Positionnement des concurrents
-- Forces et faiblesses des concurrents
-- Produits concurrents et substituts
-- Avantages concurrentiels de MCMAT
+### 11.3 Marchés européens
+#### 11.3.1 Exigences réglementaires
+#### 11.3.2 Tendances de consommation
+#### 11.3.3 Potentiel d'exportation
+#### 11.3.4 Partenariats stratégiques
 
-### 8.4 Analyse de la demande
-- Comportement d'achat des clients
-- Facteurs influençant la demande
-- Saisonnalité et cycles de marché
-- Tendances émergentes
-- Prévisions d'évolution de la demande
+### 11.4 Analyse concurrentielle détaillée
+#### 11.4.1 Concurrents directs
+#### 11.4.2 Concurrents indirects
+#### 11.4.3 Produits substituts
+#### 11.4.4 Mapping concurrentiel
 
-### 8.5 Canaux de distribution
-- Structure de distribution existante
-- Canaux adaptés aux carrelages décoratifs
-- Stratégie de distribution directe et indirecte
-- Partenariats potentiels
-- Logistique de distribution
-
-### 8.6 Stratégie de pénétration du marché
-- Approche d'entrée sur le marché
-- Politique de prix et positionnement
-- Actions marketing et communication
-- Partenariats stratégiques
-- Calendrier de déploiement
-
-### 8.7 Conclusion sur le marché algérien
-- Synthèse des opportunités et défis
-- Facteurs clés de succès
-- Objectifs commerciaux à court et moyen terme
-- Indicateurs de performance à suivre
-
-## Sources et références
-- Études de marché sur le secteur des matériaux de construction en Algérie
-- Statistiques officielles du secteur
-- Rapports d'associations professionnelles
-- Entretiens avec des experts du secteur
-- Analyses des tendances de consommation
+### 11.5 Positionnement stratégique
+#### 11.5.1 Analyse SWOT
+#### 11.5.2 Avantages concurrentiels
+#### 11.5.3 Facteurs clés de succès
+#### 11.5.4 Positionnement recommandé

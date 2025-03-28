@@ -1,48 +1,28 @@
-# Chapitre 12 : Conclusion et Recommandations
+# Chapitre 16 : Conclusion et Recommandations
 
-## Objectif du chapitre
-Ce chapitre présente la synthèse des résultats de l'étude technico-économique MCMAT, les facteurs clés de succès, les risques identifiés et les recommandations stratégiques pour la mise en œuvre du projet.
+Ce chapitre présente la synthèse des résultats de l'étude, les facteurs clés de succès, les recommandations stratégiques et les prochaines étapes.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 12.1 Synthèse des résultats de l'étude
-- Récapitulatif des principales conclusions par domaine
-- Viabilité technique du projet
-- Viabilité économique et financière
-- Potentiel commercial sur les différents marchés
-- Cohérence globale du projet
+### 16.1 Synthèse des résultats de l'étude
+#### 16.1.1 Viabilité technique
+#### 16.1.2 Viabilité économique et financière
+#### 16.1.3 Potentiel commercial
+#### 16.1.4 Cohérence globale
 
-### 12.2 Facteurs clés de succès
-- Facteurs techniques et de production
-- Facteurs commerciaux et marketing
-- Facteurs financiers et économiques
-- Facteurs organisationnels et humains
-- Facteurs liés à l'environnement d'affaires
+### 16.2 Facteurs clés de succès
+#### 16.2.1 Facteurs techniques
+#### 16.2.2 Facteurs commerciaux
+#### 16.2.3 Facteurs financiers
+#### 16.2.4 Facteurs organisationnels
 
-### 12.3 Risques identifiés et mesures d'atténuation
-- Cartographie des risques principaux
-- Évaluation de l'impact et de la probabilité
-- Stratégies d'atténuation proposées
-- Plan de gestion des risques
-- Indicateurs d'alerte et de suivi
+### 16.3 Recommandations stratégiques
+#### 16.3.1 Recommandations pour le démarrage
+#### 16.3.2 Recommandations pour la croissance
+#### 16.3.3 Orientations stratégiques
 
-### 12.4 Recommandations stratégiques
-- Recommandations pour la phase de démarrage
-- Recommandations pour la phase de croissance
-- Orientations stratégiques à moyen terme
-- Adaptations potentielles du modèle d'affaires
-- Opportunités futures à explorer
-
-### 12.5 Prochaines étapes et plan d'action
-- Calendrier de mise en œuvre recommandé
-- Étapes critiques et jalons
-- Ressources nécessaires
-- Responsabilités et gouvernance
-- Système de suivi et d'évaluation
-
-## Sources et références
-- Synthèse des analyses de tous les chapitres précédents
-- Méthodologies de gestion de projet
-- Références en management stratégique
-- Études de cas de projets similaires
-- Documentation sur la gestion des risques industriels
+### 16.4 Prochaines étapes et plan d'action
+#### 16.4.1 Calendrier de mise en œuvre
+#### 16.4.2 Étapes critiques et jalons
+#### 16.4.3 Ressources nécessaires
+#### 16.4.4 Système de suivi et d'évaluation

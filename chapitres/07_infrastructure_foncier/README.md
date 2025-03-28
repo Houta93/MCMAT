@@ -1,53 +1,36 @@
-# Chapitre 4 : Infrastructure et Foncier
+# Chapitre 7 : Infrastructure et Foncier
 
-## Objectif du chapitre
-Ce chapitre présente l'analyse détaillée des besoins en infrastructure et foncier pour le projet MCMAT, incluant les spécifications mises à jour concernant la superficie, les coûts de construction et l'aménagement des espaces.
+Ce chapitre analyse les besoins en superficie, la localisation optimale, l'aménagement des espaces de production, les infrastructures annexes, la conformité aux normes et les coûts associés.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 4.1 Besoins en terrain et implantation
-- Superficie totale requise (12 000 à 15 000 m²)
-- Critères de sélection du site
-- Localisation optimale et alternatives
-- Analyse des zones industrielles potentielles
-- Contraintes réglementaires et urbanistiques
+### 7.1 Besoins en superficie (10 000 m²)
+#### 7.1.1 Répartition des espaces
+#### 7.1.2 Justification des surfaces
+#### 7.1.3 Plans d'aménagement
 
-### 4.2 Bâtiments et structures
-- Superficie totale de construction (10 000 m²)
-- Répartition entre construction métallique (9 500 m²) et construction dure (500 m²)
-- Coûts de construction actualisés (40 000 DA/m² pour construction métallique, 25 000 DA/m² pour construction dure)
-- Plans d'aménagement et organisation des espaces
-- Spécifications techniques des bâtiments
+### 7.2 Localisation optimale et critères de sélection
+#### 7.2.1 Analyse multi-critères des sites potentiels
+#### 7.2.2 Accessibilité et logistique
+#### 7.2.3 Proximité des ressources et marchés
 
-### 4.3 Réseaux et utilités
-- Besoins en électricité et puissance installée
-- Approvisionnement en eau et traitement
-- Gestion des déchets et effluents
-- Télécommunications et réseau informatique
-- Sécurité et protection incendie
+### 7.3 Aménagement des espaces de production
+#### 7.3.1 Organisation des flux
+#### 7.3.2 Ergonomie et efficacité
+#### 7.3.3 Évolutivité des installations
 
-### 4.4 Avantages fiscaux et incitations à l'investissement
-- Dispositifs d'aide à l'investissement en Algérie
-- Exonérations fiscales applicables
-- Subventions potentielles
-- Procédures administratives et autorisations
+### 7.4 Infrastructures annexes et utilités
+#### 7.4.1 Alimentation électrique
+#### 7.4.2 Approvisionnement en eau
+#### 7.4.3 Traitement des effluents
+#### 7.4.4 Autres utilités
 
-### 4.5 Conclusion sur l'infrastructure et le foncier
-- Synthèse des besoins en infrastructure
-- Budget total révisé pour le foncier et la construction
-- Calendrier de réalisation
-- Recommandations pour l'optimisation des coûts
+### 7.5 Conformité aux normes environnementales et de sécurité
+#### 7.5.1 Normes environnementales
+#### 7.5.2 Sécurité industrielle
+#### 7.5.3 Santé au travail
 
-## Modifications prioritaires à apporter
-- Mise à jour précise de la superficie (10 000 m² au total)
-- Révision des coûts de construction avec les tarifs actualisés
-- Détails sur la répartition entre construction métallique (9 500 m²) et construction dure (500 m²)
-- Information sur les besoins en terrain (12 000 à 15 000 m²)
-- Description détaillée de l'aménagement des espaces
-
-## Sources et références
-- Tarifs actuels de construction en Algérie
-- Réglementation en matière d'urbanisme et de construction industrielle
-- Études sur les zones industrielles disponibles
-- Documentation sur les incitations à l'investissement
-- Normes de construction pour les installations industrielles
+### 7.6 Coûts d'acquisition et d'aménagement
+#### 7.6.1 Coûts fonciers
+#### 7.6.2 Coûts de construction
+#### 7.6.3 Coûts d'aménagement

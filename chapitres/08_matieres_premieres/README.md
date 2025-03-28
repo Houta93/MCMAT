@@ -1,59 +1,30 @@
-# Chapitre 5 : Matières Premières et Approvisionnement
+# Chapitre 8 : Matières Premières et Approvisionnement
 
-## Objectif du chapitre
-Ce chapitre présente l'analyse détaillée des matières premières nécessaires à la production des carrelages décoratifs MCMAT, les sources d'approvisionnement, et la stratégie logistique associée.
+Ce chapitre identifie les matières premières nécessaires, les sources d'approvisionnement, la stratégie d'approvisionnement, la gestion des stocks et l'analyse des risques associés.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 5.1 Identification des matières premières nécessaires
-- Liste complète des matières premières
-- Spécifications techniques et qualitatives
-- Volumes requis pour la production prévue
-- Matières premières spécifiques pour les carrelages décoratifs
+### 8.1 Identification des matières premières nécessaires
+#### 8.1.1 Liste exhaustive des matières
+#### 8.1.2 Spécifications techniques
+#### 8.1.3 Volumes requis
 
-### 5.2 Sources d'approvisionnement
-- Fournisseurs potentiels en Algérie
-- Fournisseurs internationaux
-- Analyse comparative des sources
-- Critères de sélection des fournisseurs
-- Stratégie de diversification des sources
+### 8.2 Sources d'approvisionnement locales et internationales
+#### 8.2.1 Fournisseurs locaux
+#### 8.2.2 Fournisseurs internationaux
+#### 8.2.3 Analyse comparative des sources
 
-### 5.3 Analyse qualitative des matières premières
-- Normes de qualité applicables
-- Procédures de contrôle et tests
-- Impact de la qualité sur le produit final
-- Gestion des non-conformités
+### 8.3 Stratégie d'approvisionnement et logistique
+#### 8.3.1 Politique d'achat
+#### 8.3.2 Gestion des importations
+#### 8.3.3 Transport et logistique
 
-### 5.4 Stratégie d'approvisionnement
-- Politique d'achat
-- Négociation et contractualisation
-- Gestion des importations
-- Optimisation des coûts d'approvisionnement
-- Sécurisation des approvisionnements critiques
+### 8.4 Gestion des stocks et flux de matières
+#### 8.4.1 Dimensionnement des stocks
+#### 8.4.2 Organisation du stockage
+#### 8.4.3 Système de gestion des stocks
 
-### 5.5 Gestion des stocks et logistique
-- Dimensionnement des stocks
-- Organisation du stockage
-- Flux logistiques internes
-- Système de gestion des stocks
-- Optimisation des niveaux de stock
-
-### 5.6 Analyse des risques liés à l'approvisionnement
-- Identification des risques potentiels
-- Évaluation de l'impact
-- Stratégies d'atténuation
-- Plans de contingence
-- Monitoring et alertes
-
-### 5.7 Conclusion sur les matières premières
-- Synthèse des points clés
-- Budget d'approvisionnement
-- Recommandations stratégiques
-- Facteurs clés de succès
-
-## Sources et références
-- Catalogues de fournisseurs
-- Études sur les matières premières pour carrelages
-- Normes de qualité internationales
-- Documentation technique sur les matériaux céramiques
-- Analyses de prix des matières premières
+### 8.5 Analyse des risques liés à l'approvisionnement
+#### 8.5.1 Identification des risques
+#### 8.5.2 Stratégies d'atténuation
+#### 8.5.3 Plans de contingence

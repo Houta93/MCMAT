@@ -1,59 +1,36 @@
-# Chapitre 13 : Annexes
+# Annexes
 
-## Objectif du chapitre
-Ce chapitre regroupe l'ensemble des documents complémentaires, tableaux détaillés, spécifications techniques et références bibliographiques qui viennent appuyer l'étude technico-économique MCMAT.
+Cette section contient les annexes de l'étude technico-économique, incluant les données techniques complémentaires, les données financières détaillées, les études de marché complémentaires, les documents administratifs et juridiques, et les sources et références.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 13.1 Spécifications techniques détaillées
-- Fiches techniques des produits
-- Spécifications des carrelages décoratifs sur mesure
-- Caractéristiques des matières premières
-- Détails techniques des équipements
-- Plans et schémas techniques
+### Annexe A : Données Techniques Complémentaires
+#### A.1 Fiches techniques détaillées des produits
+#### A.2 Plans et schémas techniques
+#### A.3 Résultats des tests de qualité
+#### A.4 Spécifications des équipements
 
-### 13.2 Tableaux financiers complets
-- Plan d'investissement détaillé
-- Tableaux d'amortissement
-- Comptes de résultat prévisionnels sur 10 ans
-- Bilans prévisionnels
-- Tableaux de flux de trésorerie détaillés
-- Analyses de sensibilité complètes
+### Annexe B : Données Financières Détaillées
+#### B.1 Tableaux financiers complets
+#### B.2 Détails des calculs de rentabilité
+#### B.3 Analyses de sensibilité complémentaires
+#### B.4 Projections financières par scénario
 
-### 13.3 Études de marché complémentaires
-- Données statistiques détaillées par marché
-- Résultats d'enquêtes et d'études
-- Analyses sectorielles approfondies
-- Profils détaillés des concurrents
-- Tendances de consommation
+### Annexe C : Études de Marché Complémentaires
+#### C.1 Données statistiques détaillées par marché
+#### C.2 Résultats d'enquêtes et d'études
+#### C.3 Profils détaillés des concurrents
+#### C.4 Analyses sectorielles approfondies
 
-### 13.4 Cadre juridique et réglementaire
-- Textes réglementaires applicables
-- Procédures administratives détaillées
-- Normes et certifications
-- Aspects juridiques de l'exportation
-- Contrats types et modèles
+### Annexe D : Documents Administratifs et Juridiques
+#### D.1 Modèles de contrats
+#### D.2 Formulaires administratifs
+#### D.3 Textes réglementaires pertinents
+#### D.4 Procédures administratives détaillées
 
-### 13.5 Sources et références bibliographiques
-- Système de numérotation des références
-- Bibliographie complète et organisée
-- Sources des données statistiques
-- Références techniques et scientifiques
-- Webographie
-
-### 13.6 Glossaire et définitions
-- Termes techniques
-- Acronymes et abréviations
-- Définitions des concepts clés
-- Unités de mesure et conversions
-- Terminologie spécifique au secteur
-
-### 13.7 Documents administratifs
-- Formulaires et documents types
-- Modèles de demandes d'autorisation
-- Exemples de dossiers administratifs
-- Contacts et adresses utiles
-- Procédures de suivi
-
-## Note sur l'organisation des annexes
-Les annexes sont organisées de manière à faciliter la navigation et la recherche d'informations spécifiques. Chaque document annexe est numéroté selon le système de référencement mis en place dans l'étude, permettant un renvoi précis depuis les différents chapitres du document principal.
+### Annexe E : Sources et Références
+#### E.1 Système de numérotation des références en exposant
+#### E.2 Bibliographie complète et organisée
+#### E.3 Sources des données statistiques
+#### E.4 Références techniques et scientifiques
+#### E.5 Webographie

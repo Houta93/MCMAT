@@ -1,61 +1,32 @@
-# Chapitre 11 : Stratégie Commerciale
+# Chapitre 12 : Stratégie Commerciale
 
-## Objectif du chapitre
-Ce chapitre présente la stratégie commerciale globale de MCMAT pour ses carrelages décoratifs sur mesure, incluant le positionnement stratégique, la politique de prix, les stratégies de distribution et de communication.
+Ce chapitre définit le positionnement et la proposition de valeur, la politique de prix, les canaux de distribution, la stratégie de communication et le plan d'action commercial.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 11.1 Positionnement stratégique
-- Proposition de valeur unique
-- Différenciation par rapport à la concurrence
-- Positionnement haut de gamme pour les carrelages décoratifs
-- Identité de marque
-- Valeurs et engagements de l'entreprise
+### 12.1 Positionnement et proposition de valeur
+#### 12.1.1 Positionnement de marque
+#### 12.1.2 Proposition de valeur unique
+#### 12.1.3 Identité visuelle et verbale
 
-### 11.2 Politique de prix
-- Stratégie de tarification
-- Structure des prix par segment
-- Politique de remises et conditions commerciales
-- Positionnement prix par rapport à la concurrence
-- Rentabilité par gamme de produits
+### 12.2 Politique de prix et conditions commerciales
+#### 12.2.1 Stratégie de tarification
+#### 12.2.2 Grilles tarifaires
+#### 12.2.3 Conditions commerciales
 
-### 11.3 Stratégie de distribution
-- Canaux de distribution prioritaires
-- Organisation de la force de vente
-- Gestion des partenaires commerciaux
-- Couverture géographique
-- Stratégie multicanal (direct et indirect)
+### 12.3 Canaux de distribution et force de vente
+#### 12.3.1 Stratégie multicanal
+#### 12.3.2 Organisation de la force de vente
+#### 12.3.3 Partenaires commerciaux
 
-### 11.4 Stratégie de communication et promotion
-- Plan de communication global
-- Outils marketing adaptés aux carrelages décoratifs
-- Présence sur les salons professionnels
-- Marketing digital et réseaux sociaux
-- Relations publiques et presse spécialisée
+### 12.4 Stratégie de communication et promotion
+#### 12.4.1 Plan de communication global
+#### 12.4.2 Marketing digital
+#### 12.4.3 Relations publiques
+#### 12.4.4 Salons professionnels
 
-### 11.5 Plan d'action commercial
-- Actions commerciales prioritaires
-- Calendrier de déploiement
-- Ressources nécessaires
-- Budget marketing et commercial
-- Responsabilités et organisation
-
-### 11.6 Objectifs de vente et indicateurs de performance
-- Objectifs commerciaux par marché et segment
-- KPIs commerciaux et marketing
-- Système de suivi et reporting
-- Processus d'évaluation et d'ajustement
-- Tableau de bord commercial
-
-### 11.7 Conclusion sur la stratégie commerciale
-- Synthèse des éléments clés
-- Facteurs critiques de succès
-- Risques commerciaux et plans d'atténuation
-- Recommandations stratégiques
-
-## Sources et références
-- Études de marché sur les carrelages décoratifs
-- Benchmarks de stratégies commerciales dans le secteur
-- Documentation sur le marketing des produits haut de gamme
-- Analyses des canaux de distribution spécialisés
-- Références sur la tarification des produits sur mesure
+### 12.5 Plan d'action commercial et objectifs de vente
+#### 12.5.1 Objectifs commerciaux
+#### 12.5.2 Actions prioritaires
+#### 12.5.3 Calendrier de déploiement
+#### 12.5.4 Budget marketing et commercial

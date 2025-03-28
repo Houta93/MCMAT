@@ -1,47 +1,19 @@
 # Chapitre 2 : Contexte Économique
 
-## Objectif du chapitre
-Ce chapitre présente le contexte économique de l'Algérie, l'état du secteur de la construction et des matériaux de construction, ainsi que le cadre réglementaire et les opportunités du marché.
+Ce chapitre analyse la situation macroéconomique de l'Algérie, sa politique économique et industrielle, ainsi que les perspectives d'évolution.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 2.1 Situation économique de l'Algérie
-- Indicateurs macroéconomiques actualisés
-- Évolution du PIB et perspectives
-- Politique économique et industrielle
-- Impact du double change en Algérie
-- Tendances économiques récentes
+### 2.1 Situation macroéconomique de l'Algérie
+#### 2.1.1 Indicateurs économiques clés (PIB, inflation, chômage)
+#### 2.1.2 Tendances économiques récentes
+#### 2.1.3 Impact du double change en Algérie
 
-### 2.2 Secteur de la construction et des matériaux de construction
-- État actuel du secteur de la construction
-- Marché des matériaux de construction
-- Principaux acteurs et concurrents
-- Tendances et évolutions récentes
-- Besoins et demande du marché
+### 2.2 Politique économique et industrielle
+#### 2.2.1 Stratégie de développement industriel
+#### 2.2.2 Incitations aux investissements
+#### 2.2.3 Réformes économiques en cours
 
-### 2.3 Cadre réglementaire et incitatif pour les investissements
-- Législation applicable aux investissements industriels
-- Incitations fiscales et financières
-- Procédures administratives
-- Réglementations spécifiques au secteur
-- Contraintes et opportunités réglementaires
-
-### 2.4 Opportunités et défis du marché
-- Analyse SWOT du secteur
-- Facteurs clés de succès
-- Risques et menaces potentiels
-- Perspectives d'évolution du marché
-- Positionnement stratégique recommandé
-
-## Modifications prioritaires à apporter
-- Mise à jour du PIB avec les chiffres les plus récents
-- Actualisation des autres indicateurs économiques
-- Révision des tendances du marché
-- Ajout d'informations sur le double change en Algérie
-
-## Sources et références
-- Rapports économiques sur l'Algérie
-- Données de la Banque Mondiale et du FMI
-- Études sectorielles sur la construction
-- Publications officielles du gouvernement algérien
-- Analyses de marché spécialisées
+### 2.3 Perspectives d'évolution
+#### 2.3.1 Projections économiques à moyen terme
+#### 2.3.2 Défis et opportunités

@@ -1,59 +1,58 @@
-# Chapitre 7 : Analyse Financière
+# Chapitre 10 : Analyse Financière
 
-## Objectif du chapitre
-Ce chapitre présente l'analyse financière complète du projet MCMAT, incluant les investissements initiaux révisés, le plan de financement, les projections financières et l'analyse de rentabilité.
+Ce chapitre présente le plan d'investissement, la structure de financement, les projections financières, l'analyse de rentabilité, l'analyse de sensibilité, les ratios financiers, les stratégies d'optimisation et les tests de résistance.
 
-## Structure du chapitre
+## Structure détaillée
 
-### 7.1 Investissements initiaux
-- Révision de l'investissement total (réduction d'environ 2,1 millions €)
-- Détail des coûts d'acquisition des terrains
-- Coûts de construction (construction métallique et construction dure)
-- Équipements et machines
-- Frais de démarrage et autres investissements
+### 10.1 Plan d'investissement détaillé
+#### 10.1.1 Investissements corporels
+#### 10.1.2 Investissements incorporels
+#### 10.1.3 Frais de démarrage
+#### 10.1.4 Besoin en fonds de roulement initial
+#### 10.1.5 Calendrier d'investissement
 
-### 7.2 Plan de financement
-- Structure du capital
-- Sources de financement (fonds propres, emprunts, subventions)
-- Conditions des prêts et remboursements
-- Calendrier des investissements
+### 10.2 Structure de financement
+#### 10.2.1 Capital social
+#### 10.2.2 Dettes à long, moyen et court terme
+#### 10.2.3 Subventions et aides publiques
+#### 10.2.4 Coût moyen pondéré du capital (WACC)
 
-### 7.3 Projections financières
-- Hypothèses de base
-- Compte de résultat prévisionnel sur 10 ans
-- Bilan prévisionnel
-- Tableau de flux de trésorerie
-- Évolution du besoin en fonds de roulement
+### 10.3 Projections financières sur 10 ans
+#### 10.3.1 Hypothèses macroéconomiques
+#### 10.3.2 Compte de résultat prévisionnel
+#### 10.3.3 Bilan prévisionnel
+#### 10.3.4 Tableau de flux de trésorerie
+#### 10.3.5 Plan de trésorerie mensuel (24 premiers mois)
 
-### 7.4 Analyse de la rentabilité
-- Recalcul du Taux de Rentabilité Interne (TRI)
-- Recalcul du délai de récupération (payback)
-- Valeur Actuelle Nette (VAN)
-- Seuil de rentabilité révisé
-- Analyse de sensibilité
+### 10.4 Analyse de rentabilité
+#### 10.4.1 Valeur Actuelle Nette (VAN)
+#### 10.4.2 Taux de Rentabilité Interne (TRI)
+#### 10.4.3 Indice de Profitabilité (IP)
+#### 10.4.4 Délai de récupération
+#### 10.4.5 Return On Investment (ROI) et Return On Equity (ROE)
+#### 10.4.6 Economic Value Added (EVA)
 
-### 7.5 Analyse des risques financiers
-- Identification des risques financiers
-- Impact potentiel sur la rentabilité
-- Stratégies d'atténuation des risques
-- Scénarios alternatifs (optimiste, pessimiste)
+### 10.5 Analyse de sensibilité et scénarios
+#### 10.5.1 Impact des variations de prix de vente
+#### 10.5.2 Impact des variations de coûts
+#### 10.5.3 Impact des variations de volume
+#### 10.5.4 Scénarios combinés
+#### 10.5.5 Analyse de Monte Carlo
 
-### 7.6 Conclusion de l'analyse financière
-- Synthèse des indicateurs financiers clés
-- Viabilité financière du projet
-- Recommandations pour optimiser la performance financière
+### 10.6 Ratios financiers et benchmarking
+#### 10.6.1 Ratios de liquidité
+#### 10.6.2 Ratios d'activité
+#### 10.6.3 Ratios de solvabilité
+#### 10.6.4 Ratios de rentabilité
+#### 10.6.5 Comparaison sectorielle
 
-## Modifications prioritaires à apporter
-- Révision complète de l'investissement total (réduction d'environ 2,1 millions €)
-- Recalcul du TRI (initialement 7,8%)
-- Recalcul du délai de récupération (initialement 6,2 ans)
-- Révision du seuil de rentabilité
-- Mise à jour de tous les tableaux financiers
-- Ajustement des projections financières en fonction des nouvelles données
+### 10.7 Stratégies d'optimisation financière
+#### 10.7.1 Optimisation fiscale
+#### 10.7.2 Gestion du BFR
+#### 10.7.3 Politique de dividendes
+#### 10.7.4 Stratégies de couverture des risques
 
-## Sources et références
-- Données financières révisées du projet
-- Taux d'intérêt et conditions bancaires actuelles
-- Indices économiques et financiers de référence
-- Études comparatives de projets similaires
-- Normes comptables et financières applicables
+### 10.8 Tests de résistance (stress tests)
+#### 10.8.1 Analyse du point de rupture
+#### 10.8.2 Scénarios de crise
+#### 10.8.3 Plans de contingence financière
