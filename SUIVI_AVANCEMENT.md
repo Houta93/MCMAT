@@ -9,7 +9,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | Préambule | Genèse du projet | ✅ Terminé | 28/03/2025 |
 | I | Chapitre 1 : Introduction | ⏳ Non commencé | - |
 | I | Chapitre 2 : Contexte Économique | ⏳ Non commencé | - |
-| I | Chapitre 3 : Relations Algéro-Turques | ⏳ Non commencé | - |
+| I | Chapitre 3 : Relations Algéro-Turques | ✅ Terminé | 28/03/2025 |
 | I | Chapitre 4 : Secteur des Matériaux de Construction | ⏳ Non commencé | - |
 | II | Chapitre 5 : Analyse Technique | ⏳ Non commencé | - |
 | II | Chapitre 6 : Matériel et Équipements | ⏳ Non commencé | - |
@@ -48,6 +48,32 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 - Sources sur le secteur des matériaux de construction en Algérie (El Watan)
 - Sources sur le patrimoine artistique (zellige de Tlemcen)
 
+### Chapitre 3 : Relations Algéro-Turques
+
+**État** : ✅ Terminé
+
+**Contenu réalisé** :
+- Historique des relations diplomatiques (période ottomane, post-indépendance, renforcement depuis 2000)
+- Moments clés et accords historiques (visites officielles, création du Conseil de coopération)
+- Accords commerciaux et partenariats existants (cadre juridique, accord commercial préférentiel)
+- Échanges commerciaux actuels (volume, nature, balance commerciale)
+- Investissements turcs en Algérie (1.700 entreprises, secteurs privilégiés, impact sur l'emploi)
+- Projets conjoints dans le secteur industriel (complexe TOSYALI, coopération énergétique)
+- Cadre juridique des investissements (évolution législative, mécanismes de protection)
+- Perspectives de coopération future (nouveaux domaines, renforcement institutionnel)
+
+**Points à compléter ou améliorer** :
+- Ajouter des données statistiques plus récentes sur les échanges commerciaux si disponibles
+- Enrichir la section sur les projets conjoints avec des exemples supplémentaires
+- Approfondir l'analyse des synergies potentielles sur les marchés africains
+
+**Sources utilisées** :
+- Articles de l'APS (Algérie Presse Service) sur les relations algéro-turques
+- Publications d'El Watan et TSA sur les partenariats commerciaux
+- Rapports économiques sur les investissements turcs en Algérie
+- Documents officiels sur le cadre juridique des investissements
+- Analyses du Middle East Council sur l'évolution des relations bilatérales
+
 ### Annexe E : Sources et Références
 
 **État** : ⏳ En cours
@@ -84,16 +110,18 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 Par ordre de priorité :
 
-1. **Rédiger le chapitre 3 sur les relations algéro-turques**
-   - Ce chapitre est stratégique et peut être développé à partir de recherches en ligne
-   - Il pose le contexte de coopération entre les deux pays
-
-2. **Développer le chapitre 2 sur le contexte économique de l'Algérie**
+1. **Développer le chapitre 2 sur le contexte économique de l'Algérie**
    - Ce chapitre établit le cadre macroéconomique dans lequel s'inscrit le projet
    - Il peut être rédigé à partir de données publiques et de rapports économiques
+   - Il complètera le contexte général après le chapitre 3 sur les relations algéro-turques
 
-3. **Préparer le chapitre 1 d'introduction**
+2. **Préparer le chapitre 1 d'introduction**
    - Ce chapitre présenterait de manière plus détaillée le projet, ses objectifs et la méthodologie
+   - Il pourra synthétiser les éléments des chapitres 2 et 3 déjà rédigés
+
+3. **Aborder le chapitre 4 sur le secteur des matériaux de construction**
+   - Ce chapitre est spécifique au domaine d'activité du projet MCMAT
+   - Il peut être développé à partir de recherches en ligne sur le marché algérien
 
 4. **Préparer des modèles pour les chapitres techniques**
    - Créer des templates pour les chapitres qui nécessiteront les informations de l'associé
@@ -109,4 +137,4 @@ Par ordre de priorité :
 
 *Ce document sera mis à jour après chaque session de travail pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 28 mars 2025*
+*Dernière mise à jour : 28 mars 2025 - 07:05*
