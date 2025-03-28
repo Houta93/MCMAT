@@ -4,7 +4,7 @@
 
 ### Inspiration et vision initiale
 
-Dans un monde où les frontières économiques s'estompent progressivement, les partenariats internationaux deviennent des vecteurs essentiels de développement et d'innovation. Le projet MCMAT (Matériaux de Construction et Matériaux Artistiques Turco-algériens) est né de cette vision : créer une synergie entre deux nations aux relations historiques profondes, l'Algérie et la Turquie, pour développer une industrie de carrelages décoratifs alliant savoir-faire traditionnel et technologies modernes.
+Dans un monde où les frontières économiques s'estompent progressivement, les partenariats internationaux deviennent des vecteurs essentiels de développement et d'innovation. Le projet MCMAT (Manufacture des Carrelages et Marbres Algéro-Turc) est né de cette vision : créer une synergie entre deux nations aux relations historiques profondes, l'Algérie et la Turquie, pour développer une industrie de carrelages décoratifs alliant savoir-faire traditionnel et technologies modernes.
 
 L'inspiration initiale du projet MCMAT trouve ses racines dans la richesse des motifs décoratifs qui ornent les monuments historiques d'Algérie et de Turquie. Des palais ottomans d'Istanbul aux mosquées et palais historiques d'Alger, de Constantine ou de Tlemcen, ces deux cultures partagent un héritage artistique commun dans l'art du carrelage décoratif. Le zellige de Tlemcen, patrimoine matériel unique qui confère à cette ville une esthétique singulière¹, témoigne de cette tradition artistique profondément ancrée dans l'identité algérienne.
 
