@@ -2,43 +2,63 @@
 
 # Script d'automatisation pour les commits GitHub
 # Ce script facilite la gestion des modifications par chapitre
+# Version mise à jour pour la nouvelle structure des dossiers
 
 # Vérifier si un chapitre a été spécifié
 if [ -z "$1" ]; then
-  echo "Usage: ./commit_chapitre.sh [numéro_chapitre] [message_commit]"
-  echo "Exemple: ./commit_chapitre.sh 03 'Mise à jour des spécifications techniques'"
+  echo "Usage: ./commit_chapitre.sh [dossier_chapitre] [message_commit]"
+  echo "Exemple: ./commit_chapitre.sh 03_relations_algero_turques 'Ajout des accords commerciaux'"
+  echo ""
+  echo "Chapitres disponibles:"
+  ls -d chapitres/[0-9]*
   exit 1
 fi
 
 # Vérifier si un message de commit a été spécifié
 if [ -z "$2" ]; then
   echo "Erreur: Veuillez spécifier un message de commit"
-  echo "Usage: ./commit_chapitre.sh [numéro_chapitre] [message_commit]"
+  echo "Usage: ./commit_chapitre.sh [dossier_chapitre] [message_commit]"
   exit 1
 fi
 
 # Extraire les paramètres
-CHAPITRE_NUM=$1
+CHAPITRE_DIR=$1
 COMMIT_MSG=$2
+
+# Extraire le numéro du chapitre
+CHAPITRE_NUM=$(echo $CHAPITRE_DIR | cut -d'_' -f1)
+
+# Vérifier si le dossier du chapitre existe
+if [ ! -d "chapitres/${CHAPITRE_DIR}" ]; then
+  echo "Erreur: Le dossier chapitres/${CHAPITRE_DIR} n'existe pas"
+  echo "Chapitres disponibles:"
+  ls -d chapitres/[0-9]*
+  exit 1
+fi
 
 # Déterminer le nom de la branche
 BRANCH_NAME="chapitre-${CHAPITRE_NUM}"
 
-# Vérifier si la branche existe
+# Vérifier si la branche existe, sinon la créer
 if ! git show-ref --verify --quiet refs/heads/${BRANCH_NAME}; then
-  echo "Erreur: La branche ${BRANCH_NAME} n'existe pas"
-  echo "Branches disponibles:"
-  git branch | grep "chapitre-"
-  exit 1
+  echo "La branche ${BRANCH_NAME} n'existe pas, création en cours..."
+  git checkout -b ${BRANCH_NAME}
+else
+  # Basculer vers la branche du chapitre
+  echo "Basculement vers la branche ${BRANCH_NAME}..."
+  git checkout ${BRANCH_NAME}
 fi
 
-# Basculer vers la branche du chapitre
-echo "Basculement vers la branche ${BRANCH_NAME}..."
-git checkout ${BRANCH_NAME}
-
 # Ajouter les modifications
-echo "Ajout des modifications pour le chapitre ${CHAPITRE_NUM}..."
-git add chapitres/${CHAPITRE_NUM}*
+echo "Ajout des modifications pour le chapitre ${CHAPITRE_DIR}..."
+git add chapitres/${CHAPITRE_DIR}
+
+# Si le chapitre est dans un sous-dossier (comme pour les marchés)
+if [[ $CHAPITRE_DIR == *"/"* ]]; then
+  # Traiter les sous-dossiers
+  PARENT_DIR=$(echo $CHAPITRE_DIR | cut -d'/' -f1)
+  git add chapitres/${PARENT_DIR}
+fi
 
 # Créer le commit
 echo "Création du commit avec le message: '${COMMIT_MSG}'..."
@@ -48,6 +68,10 @@ git commit -m "[Chapitre ${CHAPITRE_NUM}] ${COMMIT_MSG}"
 echo "Envoi des modifications vers GitHub..."
 git push origin ${BRANCH_NAME}
 
-echo "Modifications du chapitre ${CHAPITRE_NUM} enregistrées et envoyées avec succès!"
+echo "Modifications du chapitre ${CHAPITRE_DIR} enregistrées et envoyées avec succès!"
 echo "Branche: ${BRANCH_NAME}"
 echo "Message: ${COMMIT_MSG}"
+
+# Retour à la branche principale
+git checkout main
+echo "Retour à la branche principale (main)"
