@@ -357,37 +357,3 @@ Dans ce contexte économique, le projet MCMAT (Manufacture des Carrelages et Mar
 6. Il peut bénéficier des mesures protectionnistes récentes limitant les importations de carrelage et de marbre finis.
 
 Ces éléments constituent des facteurs favorables pour le projet MCMAT, même si les défis du contexte économique général (accès au financement, procédures administratives, double change) devront être soigneusement pris en compte dans sa planification et sa mise en œuvre²⁹.
-
----
-
-**Notes et références**
-
-¹ Direction générale du Trésor français, "Indicateurs et conjoncture - ALGÉRIE", Mars 2025
-² Banque Africaine de Développement, "Perspectives économiques en Algérie", Juillet 2024
-³ Le360, "Ce que l'inexorable chute du dinar dit de l'effondrement de l'économie algérienne", Septembre 2024
-⁴ Banque Mondiale, "Algérie Présentation", Octobre 2024
-⁵ Banque Mondiale, "Algérie Présentation", Octobre 2024
-⁶ Estimation basée sur les données du Centre National du Registre du Commerce (CNRC)
-⁷ Banque Africaine de Développement, "Perspectives économiques en Algérie", Juillet 2024
-⁸ Direction générale du Trésor français, "Indicateurs et conjoncture - ALGÉRIE", Mars 2025
-⁹ TSA Algérie, "Dinar algérien : l'euro frôle son record historique", Avril 2025
-¹⁰ El Watan, "Le marché parallèle des changes en Algérie", Mai 2025
-¹¹ Analyse basée sur diverses sources économiques et financières
-¹² Ministère de l'Industrie, "Stratégie industrielle nationale"
-¹³ CNESE, "Développement Industriel", Rapport de la Conférence Nationale sur la Relance Économique, 2020
-¹⁴ Mira, R., "Nouvelle stratégie industrielle en Algérie et soutien politique aux entreprises publiques", 2021
-¹⁵ AAPI, "Cadre juridique des investissements", 2023
-¹⁶ AAPI, "Guide des avantages fiscaux et douaniers", 2023
-¹⁷ Ministère de l'Industrie, "Dispositif d'accès au foncier industriel", 2023
-¹⁸ Ministère des Finances, "Mécanismes de soutien financier aux entreprises", 2023
-¹⁹ Banque d'Algérie, "Rapport annuel", 2023
-²⁰ Rapport du Forum Économique Mondial sur la compétitivité globale, 2023
-²¹ Ministère des Finances, "Réforme fiscale", 2023
-²² Ministère du Commerce, "Stratégie nationale d'exportation", 2023
-²³ Banque Mondiale et Fonds Monétaire International, Projections économiques, 2024
-²⁴ Banque Africaine de Développement, "Perspectives économiques en Algérie", Juillet 2024
-²⁵ Analyses sectorielles compilées de diverses sources
-²⁶ Scénarios prospectifs basés sur l'analyse des tendances actuelles
-²⁷ Coface, "Analyse économique des risques - Algérie", 2025
-²⁸ El Watan, "Stratégie de rupture pour repositionner l'Algérie face aux chocs économiques globaux", 2025
-²⁹ Analyse spécifique pour le projet MCMAT basée sur le contexte économique global
