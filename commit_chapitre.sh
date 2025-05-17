@@ -53,12 +53,35 @@ fi
 echo "Ajout des modifications pour le chapitre ${CHAPITRE_DIR}..."
 git add chapitres/${CHAPITRE_DIR}
 
+# Ajouter également les fichiers de références dans l'annexe E
+echo "Ajout des fichiers de références..."
+git add chapitres/annexes/annexe_e_sources/references_chapitre_${CHAPITRE_NUM}.md
+
 # Si le chapitre est dans un sous-dossier (comme pour les marchés)
 if [[ $CHAPITRE_DIR == *"/"* ]]; then
   # Traiter les sous-dossiers
   PARENT_DIR=$(echo $CHAPITRE_DIR | cut -d'/' -f1)
   git add chapitres/${PARENT_DIR}
 fi
+
+# Mettre à jour le fichier de suivi d'avancement
+echo "Mise à jour du fichier de suivi d'avancement..."
+DATE_MODIF=$(date +"%d/%m/%Y")
+CHAPITRE_NOM=$(echo $CHAPITRE_DIR | cut -d'_' -f2- | tr '_' ' ' | sed 's/^./\U&/g')
+
+# Vérifier si le chapitre est déjà dans le fichier de suivi
+if grep -q "| ${CHAPITRE_NUM} | ${CHAPITRE_NOM}" SUIVI_AVANCEMENT.md; then
+  # Mettre à jour la ligne existante
+  sed -i "/| ${CHAPITRE_NUM} | ${CHAPITRE_NOM}/s/| [0-9]\{1,3\}% |/| 50% |/" SUIVI_AVANCEMENT.md
+  sed -i "/| ${CHAPITRE_NUM} | ${CHAPITRE_NOM}/s/| [0-9]\{2\}\/[0-9]\{2\}\/[0-9]\{4\} |/| ${DATE_MODIF} |/" SUIVI_AVANCEMENT.md
+  sed -i "/| ${CHAPITRE_NUM} | ${CHAPITRE_NOM}/s/| Non commencé |/| En cours |/" SUIVI_AVANCEMENT.md
+else
+  # Ajouter une nouvelle ligne
+  echo "| ${CHAPITRE_NUM} | ${CHAPITRE_NOM} | En cours | 50% | ${DATE_MODIF} |" >> SUIVI_AVANCEMENT.md
+fi
+
+# Ajouter le fichier de suivi aux modifications
+git add SUIVI_AVANCEMENT.md
 
 # Créer le commit
 echo "Création du commit avec le message: '${COMMIT_MSG}'..."
@@ -71,6 +94,7 @@ git push origin ${BRANCH_NAME}
 echo "Modifications du chapitre ${CHAPITRE_DIR} enregistrées et envoyées avec succès!"
 echo "Branche: ${BRANCH_NAME}"
 echo "Message: ${COMMIT_MSG}"
+echo "Fichier de suivi d'avancement mis à jour."
 
 # Retour à la branche principale
 git checkout main

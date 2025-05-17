@@ -4,27 +4,27 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 ## État d'avancement global
 
-| Partie | Chapitre | État | Dernière mise à jour |
-|--------|----------|------|----------------------|
-| Préambule | Genèse du projet | ✅ Terminé | 28/03/2025 |
-| I | Chapitre 1 : Introduction | ⏳ Non commencé | - |
-| I | Chapitre 2 : Contexte Économique | ⏳ Non commencé | - |
-| I | Chapitre 3 : Relations Algéro-Turques | ✅ Terminé | 28/03/2025 |
-| I | Chapitre 4 : Secteur des Matériaux de Construction | ⏳ Non commencé | - |
-| II | Chapitre 5 : Analyse Technique | ⏳ Non commencé | - |
-| II | Chapitre 6 : Matériel et Équipements | ⏳ Non commencé | - |
-| II | Chapitre 7 : Infrastructure et Foncier | ⏳ Non commencé | - |
-| II | Chapitre 8 : Matières Premières | ⏳ Non commencé | - |
-| II | Chapitre 9 : Ressources Humaines | ⏳ Non commencé | - |
-| III | Chapitre 10 : Analyse Financière | ⏳ Non commencé | - |
-| III | Chapitre 11 : Analyse des Marchés | ⏳ Non commencé | - |
-| III | Chapitre 12 : Stratégie Commerciale | ⏳ Non commencé | - |
-| IV | Chapitre 13 : Cadre Juridique et Réglementaire | ⏳ Non commencé | - |
-| IV | Chapitre 14 : Structure Actionnariale et Gouvernance | ⏳ Non commencé | - |
-| IV | Chapitre 15 : Analyse des Risques | ⏳ Non commencé | - |
-| V | Chapitre 16 : Conclusion | ⏳ Non commencé | - |
-| V | Chapitre 17 : Perspectives de Développement | ⏳ Non commencé | - |
-| Annexes | Annexe A à E | ⏳ En cours | 28/03/2025 |
+| Chapitre | Titre | État | Progression | Dernière mise à jour |
+|----------|-------|------|------------|----------------------|
+| 00 | Préambule | Terminé | 100% | 28/03/2025 |
+| 01 | Introduction | Non commencé | 0% | - |
+| 02 | Contexte Économique | Non commencé | 0% | - |
+| 03 | Relations Algéro-Turques | Terminé | 100% | 28/03/2025 |
+| 04 | Secteur des Matériaux de Construction | Non commencé | 0% | - |
+| 05 | Analyse Technique | Non commencé | 0% | - |
+| 06 | Matériel et Équipements | Non commencé | 0% | - |
+| 07 | Infrastructure et Foncier | Non commencé | 0% | - |
+| 08 | Matières Premières | Non commencé | 0% | - |
+| 09 | Ressources Humaines | Non commencé | 0% | - |
+| 10 | Analyse Financière | Non commencé | 0% | - |
+| 11 | Analyse des Marchés | Non commencé | 0% | - |
+| 12 | Stratégie Commerciale | Non commencé | 0% | - |
+| 13 | Cadre Juridique et Réglementaire | Non commencé | 0% | - |
+| 14 | Structure Actionnariale et Gouvernance | Non commencé | 0% | - |
+| 15 | Analyse des Risques | Non commencé | 0% | - |
+| 16 | Conclusion | Non commencé | 0% | - |
+| 17 | Perspectives de Développement | Non commencé | 0% | - |
+| Annexes | Annexes A à E | En cours | 30% | 28/03/2025 |
 
 ## Détails par chapitre
 
@@ -80,7 +80,8 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 **Contenu réalisé** :
 - Création du système de référencement avec numérotation en exposant
-- Mise en place du fichier de références pour le préambule
+- Mise en place des fichiers de références pour tous les chapitres
+- Standardisation du format des références
 
 **Points à compléter ou améliorer** :
 - Continuer à enrichir les références au fur et à mesure de l'avancement des chapitres
@@ -91,6 +92,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 1. **Structure complète de l'étude** :
    - Création de l'arborescence détaillée de tous les chapitres et sous-sections
    - Organisation des dossiers dans le dépôt GitHub
+   - Standardisation de la structure des dossiers de chapitres
 
 2. **Guide de style et mise en page** :
    - Définition des standards de présentation pour l'ensemble de l'étude
@@ -105,6 +107,11 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 4. **Analyse des besoins d'information** :
    - Identification des chapitres pouvant être développés sans l'aide de l'associé
    - Liste des données spécifiques à obtenir de l'associé
+
+5. **Templates et modèles** :
+   - Création de templates standardisés pour les chapitres
+   - Création de templates pour les fichiers de références
+   - Création de templates pour les annexes
 
 ## Prochaines étapes recommandées
 
@@ -123,8 +130,8 @@ Par ordre de priorité :
    - Ce chapitre est spécifique au domaine d'activité du projet MCMAT
    - Il peut être développé à partir de recherches en ligne sur le marché algérien
 
-4. **Préparer des modèles pour les chapitres techniques**
-   - Créer des templates pour les chapitres qui nécessiteront les informations de l'associé
+4. **Utiliser les templates pour les chapitres techniques**
+   - Appliquer les templates créés pour les chapitres qui nécessiteront les informations de l'associé
 
 ## Notes et observations
 
@@ -132,9 +139,10 @@ Par ordre de priorité :
 - L'approche adoptée est séquentielle, avec finalisation de chaque chapitre avant de passer au suivant
 - Toutes les sources doivent être rigoureusement documentées avec le système de numérotation en exposant
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
+- La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
 
 ---
 
-*Ce document sera mis à jour après chaque session de travail pour refléter l'avancement du projet.*
+*Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 28 mars 2025 - 07:05*
+*Dernière mise à jour : 17 mai 2025 - 18:14*
