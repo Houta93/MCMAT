@@ -1,41 +1,61 @@
-# Liste des tâches pour l'étude technico-économique
+# Liste des tâches pour l'étude technico-économique MCMAT
 
-## Initialisation du projet
-- [x] Créer la structure de base du projet
-- [x] Initialiser le dépôt Git local
-- [x] Créer les dossiers principaux (chapitres, sources, archives)
-- [x] Rédiger le README avec la méthodologie
-- [ ] Créer un dépôt GitHub distant
-- [ ] Connecter le dépôt local au dépôt distant
+## Organisation du dépôt
+- [x] Créer la structure standardisée du projet
+- [x] Initialiser le dépôt Git et le connecter à GitHub
+- [x] Créer les dossiers principaux (chapitres, ressources, templates, archives)
+- [x] Mettre en place les sous-dossiers pour chaque chapitre (images, brouillons)
+- [x] Rédiger le README avec la méthodologie et la structure
+- [x] Créer les templates standardisés (chapitres, références, annexes)
 
-## Analyse des archives existantes
-- [ ] Recevoir la première archive de l'utilisateur
-- [ ] Analyser le contenu de l'archive
-- [ ] Extraire les informations pertinentes
-- [ ] Organiser les données selon la nouvelle structure
+## Documentation et automatisation
+- [x] Mettre en place le système de branches pour chaque chapitre
+- [x] Créer le script d'automatisation pour les commits (commit_chapitre.sh)
+- [x] Documenter le processus de travail avec GitHub (GUIDE_GITHUB.md)
+- [x] Établir le guide de style et mise en page
+- [x] Mettre en place le système de suivi d'avancement
 
-## Structure de l'étude
-- [ ] Définir les chapitres de l'étude
-- [ ] Établir le plan détaillé de chaque chapitre
-- [ ] Valider la structure avec l'utilisateur
-
-## Système d'automatisation GitHub
-- [ ] Mettre en place un système de branches pour chaque chapitre
-- [ ] Créer des scripts d'automatisation pour les commits
-- [ ] Documenter le processus de travail avec GitHub
+## Documentation des sources
+- [x] Créer la structure de l'annexe E pour les sources
+- [x] Préparer les fichiers de références pour chaque chapitre
+- [x] Établir le système de numérotation en exposant
 
 ## Rédaction chapitre par chapitre
-- [ ] Rédiger le chapitre 1
-- [ ] Rédiger le chapitre 2
-- [ ] Rédiger le chapitre 3
-- [ ] (et ainsi de suite pour chaque chapitre)
+- [x] Rédiger le préambule (chapitre 00)
+- [x] Rédiger le chapitre 3 (Relations algéro-turques)
+- [ ] Rédiger le chapitre 1 (Introduction)
+- [ ] Rédiger le chapitre 2 (Contexte économique)
+- [ ] Rédiger le chapitre 4 (Secteur des matériaux de construction)
+- [ ] Rédiger le chapitre 5 (Analyse technique)
+- [ ] Rédiger le chapitre 6 (Matériel et équipements)
+- [ ] Rédiger le chapitre 7 (Infrastructure et foncier)
+- [ ] Rédiger le chapitre 8 (Matières premières)
+- [ ] Rédiger le chapitre 9 (Ressources humaines)
+- [ ] Rédiger le chapitre 10 (Analyse financière)
+- [ ] Rédiger le chapitre 11 (Analyse des marchés)
+- [ ] Rédiger le chapitre 12 (Stratégie commerciale)
+- [ ] Rédiger le chapitre 13 (Cadre juridique)
+- [ ] Rédiger le chapitre 14 (Structure actionnariale)
+- [ ] Rédiger le chapitre 15 (Analyse des risques)
+- [ ] Rédiger le chapitre 16 (Conclusion)
+- [ ] Rédiger le chapitre 17 (Perspectives de développement)
+
+## Collecte d'informations
+- [ ] Compléter le questionnaire détaillé avec l'associé turc
+- [ ] Analyser les réponses et intégrer les informations dans les chapitres concernés
+- [ ] Documenter toutes les sources dans l'annexe E
 
 ## Finalisation de l'étude
 - [ ] Réviser l'ensemble des chapitres
 - [ ] Assurer la cohérence entre les différentes parties
+- [ ] Vérifier toutes les références et sources
 - [ ] Compiler l'étude complète
 
 ## Présentation des résultats
 - [ ] Préparer la documentation finale
 - [ ] Créer une présentation des résultats
 - [ ] Remettre l'ensemble des livrables
+
+---
+
+*Note: Ce fichier todo.md est complémentaire au suivi d'avancement détaillé disponible dans SUIVI_AVANCEMENT.md*
