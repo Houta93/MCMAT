@@ -146,3 +146,4 @@ Par ordre de priorité :
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
 *Dernière mise à jour : 17 mai 2025 - 18:14*
+| 02 | Contexte economique | En cours | 50% | 20/05/2025 |
