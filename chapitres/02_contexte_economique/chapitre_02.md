@@ -358,8 +358,6 @@ Dans ce contexte économique, le projet MCMAT (Manufacture des Carrelages et Mar
 
 Ces éléments constituent des facteurs favorables pour le projet MCMAT, même si les défis du contexte économique général (accès au financement, procédures administratives, double change) devront être soigneusement pris en compte dans sa planification et sa mise en œuvre²⁹.
 
----
-
 **Notes et références**
 
 ¹ Direction générale du Trésor français, "Indicateurs et conjoncture - ALGÉRIE", Mars 2025
