@@ -26,7 +26,7 @@ La croissance économique de l'Algérie a atteint 4,1% en 2023, soutenue par plu
 
 Cette croissance, supérieure à la moyenne observée sur la décennie 2010-2020, témoigne d'une certaine résilience de l'économie algérienne face aux chocs externes et aux contraintes structurelles internes².
 
-L'inflation, après avoir atteint près de 9,3% en 2023, montre des signes d'apaisement, mais demeure à un niveau préoccupant. Cette situation affecte particulièrement le pouvoir d'achat des ménages algériens, pour lesquels les dépenses alimentaires représentent environ 43% du budget mensuel³. Les politiques de contrôle des prix et de subventions mises en place par le gouvernement contribuent à atténuer partiellement cet impact, mais posent également des défis en termes de soutenabilité budgétaire.
+L'inflation, après avoir atteint près de 9,3% en 2023, montre des signes d'apaisement, mais demeure à un niveau préoccupant. Cette situation affecte particulièrement le pouvoir d'achat des ménages algériens, pour lesquels les dépenses alimentaires représentent environ 34% du budget mensuel selon l'Office National des Statistiques (ONS)³. Les politiques de contrôle des prix et de subventions mises en place par le gouvernement contribuent à atténuer partiellement cet impact, mais posent également des défis en termes de soutenabilité budgétaire.
 
 Le chômage reste l'un des défis majeurs de l'économie algérienne, touchant 11,6% de la population active, avec un taux particulièrement élevé chez les jeunes et les diplômés. Ce phénomène s'explique notamment par l'inadéquation entre les formations dispensées et les besoins du marché du travail, ainsi que par la faiblesse de la création d'emplois dans le secteur privé⁴.
 
@@ -362,7 +362,7 @@ Ces éléments constituent des facteurs favorables pour le projet MCMAT, même s
 
 ¹ Direction générale du Trésor français, "Indicateurs et conjoncture - ALGÉRIE", Mars 2025
 ² Banque Africaine de Développement, "Perspectives économiques en Algérie", Juillet 2024
-³ Le360, "Ce que l'inexorable chute du dinar dit de l'effondrement de l'économie algérienne", Septembre 2024
+³ Office National des Statistiques (ONS), "Dépenses de consommation des ménages algériens en 2022", Octobre 2024
 ⁴ Banque Mondiale, "Algérie Présentation", Octobre 2024
 ⁵ Banque Mondiale, "Algérie Présentation", Octobre 2024
 ⁶ Estimation basée sur les données du Centre National du Registre du Commerce (CNRC)

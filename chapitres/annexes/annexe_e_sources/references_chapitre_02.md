@@ -20,11 +20,11 @@ Les références sont organisées par thématiques et correspondent aux numéros
    - URL: https://www.afdb.org/fr/countries/north-africa/algeria/algeria-economic-outlook
    - Informations clés: Analyse de la croissance économique de l'Algérie et des secteurs porteurs
 
-3. **Ce que l'inexorable chute du dinar dit de l'effondrement de l'économie algérienne**
-   - Source: Le360
-   - Date: Septembre 2024
-   - URL: https://fr.le360.ma/economie/ce-que-linexorable-chute-du-dinar-dit-de-leffondrement-de-leconomie-algerienne
-   - Informations clés: Impact de l'inflation sur le pouvoir d'achat des ménages
+3. **Dépenses de consommation des ménages algériens en 2022**
+   - Source: Office National des Statistiques (ONS)
+   - Date: Octobre 2024
+   - URL: https://www.ons.dz
+   - Informations clés: Structure des dépenses des ménages algériens, avec l'alimentation représentant 34% du budget
 
 4. **Algérie Présentation**
    - Source: Banque Mondiale
@@ -170,7 +170,7 @@ Les références sont organisées par thématiques et correspondent aux numéros
 ## Classification des sources
 
 ### Sources officielles
-- Références 1, 2, 4, 5, 6, 7, 8, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24
+- Références 1, 2, 3, 4, 5, 6, 7, 8, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24
 
 ### Publications académiques
 - Référence 14
@@ -179,7 +179,7 @@ Les références sont organisées par thématiques et correspondent aux numéros
 - Références 20, 27
 
 ### Articles de presse
-- Références 3, 9, 10, 28
+- Références 9, 10, 28
 
 ### Autres sources
 - Références 11, 25, 26, 29

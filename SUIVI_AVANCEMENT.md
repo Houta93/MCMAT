@@ -8,7 +8,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 |----------|-------|------|------------|----------------------|
 | 00 | Préambule | Terminé | 100% | 28/03/2025 |
 | 01 | Introduction | Non commencé | 0% | - |
-| 02 | Contexte Économique | Non commencé | 0% | - |
+| 02 | Contexte Économique | Terminé | 100% | 22/05/2025 |
 | 03 | Relations Algéro-Turques | Terminé | 100% | 28/03/2025 |
 | 04 | Secteur des Matériaux de Construction | Non commencé | 0% | - |
 | 05 | Analyse Technique | Non commencé | 0% | - |
@@ -47,6 +47,31 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 - Sources sur les relations algéro-turques (APS, L'Est Républicain)
 - Sources sur le secteur des matériaux de construction en Algérie (El Watan)
 - Sources sur le patrimoine artistique (zellige de Tlemcen)
+
+### Chapitre 2 : Contexte Économique
+
+**État** : ✅ Terminé
+
+**Contenu réalisé** :
+- Situation macroéconomique de l'Algérie (PIB, inflation, chômage)
+- Tendances économiques récentes (dépendance aux hydrocarbures, secteur privé)
+- Impact du double change en Algérie
+- Politique économique et industrielle (stratégie de développement)
+- Incitations aux investissements (cadre juridique, avantages fiscaux)
+- Réformes économiques en cours
+- Perspectives d'évolution (projections économiques, défis et opportunités)
+- Implications pour le projet MCMAT
+
+**Points à compléter ou améliorer** :
+- Mettre à jour régulièrement les données économiques les plus récentes
+- Approfondir l'analyse des incitations aux investissements spécifiques au secteur des matériaux de construction
+
+**Sources utilisées** :
+- Données officielles de l'Office National des Statistiques (ONS)
+- Rapports de la Banque Mondiale et de la Banque Africaine de Développement
+- Analyses de la Direction générale du Trésor français
+- Publications économiques d'El Watan et TSA Algérie
+- Rapports du ministère de l'Industrie et de l'AAPI
 
 ### Chapitre 3 : Relations Algéro-Turques
 
@@ -145,5 +170,4 @@ Par ordre de priorité :
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 17 mai 2025 - 18:14*
-| 02 | Contexte economique | En cours | 50% | 20/05/2025 |
+*Dernière mise à jour : 22 mai 2025 - 15:30*
