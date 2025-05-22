@@ -2,7 +2,7 @@
 
 # Script d'automatisation pour les commits GitHub
 # Ce script facilite la gestion des modifications par chapitre
-# Version mise à jour pour la nouvelle structure des dossiers
+# Version mise à jour pour la nouvelle structure des dossiers et workflow
 
 # Vérifier si un chapitre a été spécifié
 if [ -z "$1" ]; then
@@ -28,6 +28,11 @@ COMMIT_MSG=$2
 # Extraire le numéro du chapitre
 CHAPITRE_NUM=$(echo $CHAPITRE_DIR | cut -d'_' -f1)
 
+# Si le numéro du chapitre n'a qu'un seul chiffre, ajouter un zéro au début
+if [ ${#CHAPITRE_NUM} -eq 1 ]; then
+  CHAPITRE_NUM="0${CHAPITRE_NUM}"
+fi
+
 # Vérifier si le dossier du chapitre existe
 if [ ! -d "chapitres/${CHAPITRE_DIR}" ]; then
   echo "Erreur: Le dossier chapitres/${CHAPITRE_DIR} n'existe pas"
@@ -39,14 +44,48 @@ fi
 # Déterminer le nom de la branche
 BRANCH_NAME="chapitre-${CHAPITRE_NUM}"
 
+# Vérifier si des branches locales non poussées existent
+UNPUSHED=$(git log --branches --not --remotes --simplify-by-decoration --decorate --oneline)
+if [ ! -z "$UNPUSHED" ]; then
+  echo "⚠️ Attention: Des branches locales ont des commits non poussés vers le dépôt distant:"
+  echo "$UNPUSHED"
+  echo ""
+  read -p "Voulez-vous continuer quand même? (o/n): " CONTINUE
+  if [ "$CONTINUE" != "o" ]; then
+    echo "Opération annulée."
+    exit 0
+  fi
+fi
+
+# Vérifier si des modifications non commitées existent sur la branche actuelle
+if ! git diff-index --quiet HEAD --; then
+  echo "⚠️ Attention: Vous avez des modifications non commitées sur la branche actuelle."
+  git status --short
+  echo ""
+  read -p "Voulez-vous continuer et laisser ces modifications? (o/n): " CONTINUE
+  if [ "$CONTINUE" != "o" ]; then
+    echo "Opération annulée."
+    exit 0
+  fi
+fi
+
+# S'assurer que la branche develop est à jour
+echo "Mise à jour de la branche develop depuis le dépôt distant..."
+git checkout develop
+git pull origin develop
+
 # Vérifier si la branche existe, sinon la créer
 if ! git show-ref --verify --quiet refs/heads/${BRANCH_NAME}; then
   echo "La branche ${BRANCH_NAME} n'existe pas, création en cours..."
-  git checkout -b ${BRANCH_NAME}
+  git checkout -b ${BRANCH_NAME} develop
 else
   # Basculer vers la branche du chapitre
   echo "Basculement vers la branche ${BRANCH_NAME}..."
   git checkout ${BRANCH_NAME}
+  
+  # Mise à jour depuis develop
+  echo "Mise à jour depuis develop..."
+  git merge develop --no-edit
 fi
 
 # Ajouter les modifications
@@ -80,11 +119,14 @@ else
   echo "| ${CHAPITRE_NUM} | ${CHAPITRE_NOM} | En cours | 50% | ${DATE_MODIF} |" >> SUIVI_AVANCEMENT.md
 fi
 
+# Mettre à jour la date de dernière mise à jour
+sed -i "s/\*Dernière mise à jour : .*/\*Dernière mise à jour : $(date +"%d %B %Y - %H:%M")*/" SUIVI_AVANCEMENT.md
+
 # Ajouter le fichier de suivi aux modifications
 git add SUIVI_AVANCEMENT.md
 
 # Créer le commit
-echo "Création du commit avec le message: '${COMMIT_MSG}'..."
+echo "Création du commit avec le message: '[Chapitre ${CHAPITRE_NUM}] ${COMMIT_MSG}'..."
 git commit -m "[Chapitre ${CHAPITRE_NUM}] ${COMMIT_MSG}"
 
 # Pousser les modifications vers GitHub
@@ -96,6 +138,16 @@ echo "Branche: ${BRANCH_NAME}"
 echo "Message: ${COMMIT_MSG}"
 echo "Fichier de suivi d'avancement mis à jour."
 
-# Retour à la branche principale
-git checkout main
-echo "Retour à la branche principale (main)"
+# Proposer de créer une pull request
+echo ""
+echo "Souhaitez-vous créer une pull request pour fusionner ces modifications dans develop?"
+read -p "Créer une pull request? (o/n): " CREATE_PR
+
+if [ "$CREATE_PR" = "o" ]; then
+  echo "Pour créer une pull request, visitez:"
+  echo "https://github.com/Houta93/MCMAT/pull/new/${BRANCH_NAME}"
+fi
+
+# Retour à la branche develop
+git checkout develop
+echo "Retour à la branche develop"
