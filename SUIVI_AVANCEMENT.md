@@ -7,7 +7,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | Chapitre | Titre | État | Progression | Dernière mise à jour |
 |----------|-------|------|------------|----------------------|
 | 00 | Préambule | Terminé | 100% | 28/03/2025 |
-| 01 | Introduction | Non commencé | 0% | - |
+| 01 | Introduction | Terminé | 100% | 22/05/2025 |
 | 02 | Contexte Économique | Terminé | 100% | 22/05/2025 |
 | 03 | Relations Algéro-Turques | Terminé | 100% | 28/03/2025 |
 | 04 | Secteur des Matériaux de Construction | Non commencé | 0% | - |
@@ -24,7 +24,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 15 | Analyse des Risques | Non commencé | 0% | - |
 | 16 | Conclusion | Non commencé | 0% | - |
 | 17 | Perspectives de Développement | Non commencé | 0% | - |
-| Annexes | Annexes A à E | En cours | 30% | 28/03/2025 |
+| Annexes | Annexes A à E | En cours | 35% | 22/05/2025 |
 
 ## Détails par chapitre
 
@@ -47,6 +47,25 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 - Sources sur les relations algéro-turques (APS, L'Est Républicain)
 - Sources sur le secteur des matériaux de construction en Algérie (El Watan)
 - Sources sur le patrimoine artistique (zellige de Tlemcen)
+
+### Chapitre 1 : Introduction
+
+**État** : ✅ Terminé
+
+**Contenu réalisé** :
+- Présentation générale du projet MCMAT (origine, concept, objectifs)
+- Objectifs de l'étude technico-économique (finalité, questions clés, bénéficiaires)
+- Méthodologie adoptée (approche, sources d'information, outils d'analyse)
+- Structure détaillée du document (organisation générale, contenu des chapitres, annexes)
+
+**Points à compléter ou améliorer** :
+- Approfondir éventuellement les liens avec les chapitres suivants
+- Ajouter des références complémentaires si de nouvelles sources pertinentes sont identifiées
+
+**Sources utilisées** :
+- Documents internes du projet MCMAT (dossier conceptuel, présentation stratégique)
+- Publications méthodologiques du Ministère de l'Industrie et de l'AAPI
+- Guides méthodologiques de l'ONUDI
 
 ### Chapitre 2 : Contexte Économique
 
@@ -107,10 +126,12 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 - Création du système de référencement avec numérotation en exposant
 - Mise en place des fichiers de références pour tous les chapitres
 - Standardisation du format des références
+- Rédaction complète des références pour les chapitres 00, 01, 02 et 03
 
 **Points à compléter ou améliorer** :
 - Continuer à enrichir les références au fur et à mesure de l'avancement des chapitres
 - Organiser les références par thématiques pour faciliter la consultation
+- Vérifier la cohérence des référencements entre les chapitres
 
 ## Éléments transversaux réalisés
 
@@ -147,15 +168,12 @@ Par ordre de priorité :
    - S'assurer que les statistiques économiques proviennent d'organismes officiels (ONS, ministères, etc.)
    - Vérifier la cohérence des données entre les différentes sources
 
-2. **Développer le chapitre 1 d'introduction**
-   - Présenter de manière plus détaillée le projet, ses objectifs et la méthodologie
-   - Synthétiser les éléments des chapitres 2 et 3 déjà rédigés
-
-3. **Aborder le chapitre 4 sur le secteur des matériaux de construction**
+2. **Aborder le chapitre 4 sur le secteur des matériaux de construction**
    - Ce chapitre est spécifique au domaine d'activité du projet MCMAT
    - Il peut être développé à partir de recherches en ligne sur le marché algérien
+   - Analyser en profondeur le secteur du carrelage et du marbre en particulier
 
-4. **Utiliser les templates pour les chapitres techniques**
+3. **Utiliser les templates pour les chapitres techniques**
    - Appliquer les templates créés pour les chapitres qui nécessiteront les informations de l'associé
 
 ## Notes et observations
@@ -166,9 +184,11 @@ Par ordre de priorité :
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
 - Les fichiers du chapitre 03 ont été renommés pour suivre la convention de nommage (chapitre_03.md au lieu de chapitre_3.md)
+- Le chapitre 1 (Introduction) a été entièrement rédigé et documenté selon les conventions du projet
 
 ---
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 22 mai 2025 - 16:45*
+*Dernière mise à jour : 22 mai 2025 - 17:30*| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
+| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
