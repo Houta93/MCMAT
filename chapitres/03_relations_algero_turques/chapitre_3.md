@@ -4,7 +4,7 @@
 
 ### 3.1.1 Évolution des relations bilatérales
 
-L\"histoire des relations entre l\"Algérie et la Turquie s\"inscrit dans une temporalité longue, marquée par des périodes d\"intensité variable mais caractérisée par une continuité remarquable. Ces relations trouvent leurs racines dans un passé commun qui remonte à plusieurs siècles.
+L'histoire des relations entre l'Algérie et la Turquie s'inscrit dans une temporalité longue, marquée par des périodes d'intensité variable mais caractérisée par une continuité remarquable. Ces relations trouvent leurs racines dans un passé commun qui remonte à plusieurs siècles.
 
 #### Période ottomane et héritage historique
 
