@@ -142,14 +142,14 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 Par ordre de priorité :
 
-1. **Développer le chapitre 2 sur le contexte économique de l'Algérie**
-   - Ce chapitre établit le cadre macroéconomique dans lequel s'inscrit le projet
-   - Il peut être rédigé à partir de données publiques et de rapports économiques
-   - Il complètera le contexte général après le chapitre 3 sur les relations algéro-turques
+1. **Améliorer la qualité et fiabilité des sources utilisées**
+   - Remplacer systématiquement les sources des médias non officiels par des sources fiables
+   - S'assurer que les statistiques économiques proviennent d'organismes officiels (ONS, ministères, etc.)
+   - Vérifier la cohérence des données entre les différentes sources
 
-2. **Préparer le chapitre 1 d'introduction**
-   - Ce chapitre présenterait de manière plus détaillée le projet, ses objectifs et la méthodologie
-   - Il pourra synthétiser les éléments des chapitres 2 et 3 déjà rédigés
+2. **Développer le chapitre 1 d'introduction**
+   - Présenter de manière plus détaillée le projet, ses objectifs et la méthodologie
+   - Synthétiser les éléments des chapitres 2 et 3 déjà rédigés
 
 3. **Aborder le chapitre 4 sur le secteur des matériaux de construction**
    - Ce chapitre est spécifique au domaine d'activité du projet MCMAT
@@ -165,9 +165,10 @@ Par ordre de priorité :
 - Toutes les sources doivent être rigoureusement documentées avec le système de numérotation en exposant
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
+- Les fichiers du chapitre 03 ont été renommés pour suivre la convention de nommage (chapitre_03.md au lieu de chapitre_3.md)
 
 ---
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 22 mai 2025 - 15:30*
+*Dernière mise à jour : 22 mai 2025 - 16:45*
