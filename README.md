@@ -6,8 +6,10 @@ Ce dépôt contient l'ensemble des documents relatifs à l'étude technico-écon
 
 ### Dossiers principaux
 - **chapitres/** : Contient 18 sous-dossiers (un par chapitre) et le dossier annexes
-- **ressources/** : Contient les éléments communs à plusieurs chapitres (images, tableaux, modèles, bibliographie)
-- **templates/** : Contient les modèles standardisés pour les chapitres, références et annexes
+- **docs/** : Documentation du projet (guides, templates, questionnaires)
+  - **docs/guides/** : Guides méthodologiques et standards
+  - **docs/templates/** : Modèles standardisés pour la rédaction
+  - **docs/questionnaires/** : Questionnaires pour la collecte d'informations
 - **archives/** : Stockage des archives
 
 ### Structure des dossiers de chapitres
@@ -20,6 +22,25 @@ Chaque dossier de chapitre (00_preambule à 17_perspectives_developpement) conti
 ### Documentation des sources
 Les sources sont centralisées dans :
 - `chapitres/annexes/annexe_e_sources/` : Contient un fichier de références pour chaque chapitre
+
+## Conventions de nommage
+
+Pour assurer la cohérence du projet, les conventions suivantes sont adoptées :
+
+### Fichiers des chapitres
+- Fichier principal : `chapitre_XX.md` (avec XX à deux chiffres : 01, 02, 03...)
+- Structure du chapitre : `structure_chapitre_XX.md`
+- Références : `references_chapitre_XX.md`
+
+### Branches Git
+- Branche principale : `main`
+- Branche de développement : `develop`
+- Branche par chapitre : `chapitre-XX` (avec XX à deux chiffres)
+- Branches de correction : `fix/...`
+- Branches de documentation : `doc/...`
+
+### Messages de commit
+Format : `[Chapitre XX] Description de la modification`
 
 ## Méthodologie de travail
 
@@ -36,30 +57,25 @@ L'approche adoptée est séquentielle, avec un travail chapitre par chapitre. Ch
 
 Plusieurs guides sont disponibles pour faciliter le travail :
 
-- **GUIDE_GITHUB.md** : Instructions sur l'utilisation du système d'automatisation GitHub
-- **GUIDE_SAUVEGARDE.md** : Explications sur le système de sauvegarde et l'utilisation du script de commit
-- **guide_style_mise_en_page.md** : Standards de présentation et de mise en page pour tous les chapitres
+- **docs/guides/GUIDE_GITHUB.md** : Instructions sur l'utilisation du système d'automatisation GitHub
+- **docs/guides/GUIDE_SAUVEGARDE.md** : Explications sur le système de sauvegarde et l'utilisation du script de commit
+- **docs/guides/guide_style_mise_en_page.md** : Standards de présentation et de mise en page pour tous les chapitres
 
-## Templates disponibles
+## Principes de qualité des sources
 
-Des templates standardisés ont été créés pour faciliter la rédaction :
+Pour garantir la fiabilité de l'étude, les principes suivants s'appliquent :
 
-1. **Template de chapitre** (`templates/template_chapitre.md`) :
-   - Structure standard pour la rédaction d'un nouveau chapitre
-   - À utiliser comme point de départ pour chaque nouveau chapitre
-
-2. **Template de références** (`templates/template_references.md`) :
-   - Format standard pour documenter les sources avec le système de numérotation en exposant
-   - À utiliser pour compléter les fichiers de références dans l'annexe E
-
-3. **Template d'annexe** (`templates/template_annexe.md`) :
-   - Structure standard pour la création d'une nouvelle annexe
-   - À utiliser pour les annexes A à E
+1. **Priorité aux sources officielles** : Privilégier les sources gouvernementales (ONS, ministères) et institutions reconnues
+2. **Vérification croisée** : Confirmer les informations avec plusieurs sources indépendantes
+3. **Actualité des données** : Utiliser les données les plus récentes disponibles
+4. **Traçabilité** : Documenter systématiquement l'origine de chaque information avec le système de références
+5. **Éviter les sources partiales** : Ne pas utiliser de médias connus pour leur manque de fiabilité ou partialité
 
 ## Gestion des versions
 
-Ce projet utilise Git pour le suivi des modifications, avec une branche dédiée par chapitre :
+Ce projet utilise Git avec le workflow suivant :
 - `main` : Branche principale contenant la version stable de l'étude
+- `develop` : Branche de développement où sont intégrées les modifications validées
 - `chapitre-XX` : Branches dédiées à chaque chapitre (XX étant le numéro du chapitre)
 
 Le script `commit_chapitre.sh` facilite la gestion des modifications en :
