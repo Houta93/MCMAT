@@ -176,6 +176,24 @@ Par ordre de priorité :
 3. **Utiliser les templates pour les chapitres techniques**
    - Appliquer les templates créés pour les chapitres qui nécessiteront les informations de l'associé
 
+## Nouvelles ressources techniques reçues
+
+Le 3 mai 2025, deux documents techniques importants ont été reçus :
+
+1. **Plan d'implantation de l'usine (CEZAİR-YERLEŞİM-Model.pdf)**
+   - Document présentant le plan détaillé de l'usine MCMAT
+   - Chapitres concernés : 05, 06 et 07
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/plan_usine_reference.md`
+
+2. **Organigramme de l'entreprise (CEZAYİR-ORGANİZASYON-ŞEMASI.pdf)**
+   - Document présentant la structure organisationnelle complète de MCMAT
+   - Chapitres concernés : 09, 14 et partiellement 05
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/organigramme_reference.md`
+
+Un nouveau guide méthodologique a été créé pour encadrer l'utilisation de ces données techniques dans le processus de rédaction. Il est disponible dans `docs/guides/utilisation_donnees_techniques.md`.
+
+Ces nouveaux documents vont permettre d'avancer significativement sur les chapitres concernés, notamment le chapitre 05 (Analyse Technique) qui figure parmi les priorités de développement.
+
 ## Notes et observations
 
 - La signification correcte de MCMAT est "Manufacture des Carrelages et Marbres Algéro-Turc"
