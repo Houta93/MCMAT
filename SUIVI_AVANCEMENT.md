@@ -190,9 +190,21 @@ Le 3 mai 2025, deux documents techniques importants ont été reçus :
    - Chapitres concernés : 09, 14 et partiellement 05
    - Une fiche de référence a été créée dans `docs/donnees_techniques/organigramme_reference.md`
 
-Un nouveau guide méthodologique a été créé pour encadrer l'utilisation de ces données techniques dans le processus de rédaction. Il est disponible dans `docs/guides/utilisation_donnees_techniques.md`.
+Le 23 mai 2025, deux documents financiers et techniques supplémentaires ont été reçus :
 
-Ces nouveaux documents vont permettre d'avancer significativement sur les chapitres concernés, notamment le chapitre 05 (Analyse Technique) qui figure parmi les priorités de développement.
+3. **Rapport de capacité de l'usine (CEZAYİR-SERAMİK-FABRİKASI-KAPASİTE-RAPORU.xlsx)**
+   - Document détaillant les capacités de production de l'usine
+   - Chapitres concernés : 05, 06, 10 et 12
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/capacite_production_reference.md`
+
+4. **Étude financière détaillée (MF-CEZAYİR-SERAMİK-FABRİKASI-ÇAIŞMASI.-(2).xlsx)**
+   - Document présentant l'analyse financière complète du projet
+   - Chapitres concernés : 08, 09, 10, 14 et 15
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/etude_financiere_reference.md`
+
+Un guide méthodologique a été créé pour encadrer l'utilisation de ces données techniques dans le processus de rédaction. Il est disponible dans `docs/guides/utilisation_donnees_techniques.md`.
+
+Ces documents permettront d'avancer significativement sur les chapitres concernés, notamment les chapitres 05 (Analyse Technique) et 10 (Analyse Financière) qui figurent parmi les priorités de développement.
 
 ## Notes et observations
 
@@ -208,5 +220,4 @@ Ces nouveaux documents vont permettre d'avancer significativement sur les chapit
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 22 mai 2025 - 17:30*| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
-| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
+*Dernière mise à jour : 23 mai 2025 - 14:30*
