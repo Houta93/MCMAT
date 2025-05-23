@@ -10,6 +10,8 @@ Toutes les données techniques sont centralisées dans le dossier `docs/donnees_
 ### Types de documents
 - **Plans et schémas** : Documents relatifs à l'infrastructure, l'implantation, les équipements
 - **Organigrammes** : Documents présentant la structure organisationnelle
+- **Données financières** : Analyses financières, études de rentabilité, plans d'investissement
+- **Rapports de capacité** : Documents détaillant les capacités de production et les spécifications techniques
 - **Spécifications techniques** : Fiches techniques des équipements, matériaux, etc.
 - **Normes et standards** : Documents de référence pour les normes applicables
 
@@ -84,6 +86,30 @@ Toutes les données techniques sont centralisées dans le dossier `docs/donnees_
 1. Analyser la structure de gouvernance représentée dans l'organigramme
 2. Évaluer l'équilibre entre les partenaires algériens et turcs
 3. Proposer d'éventuels ajustements pour optimiser la gouvernance
+
+### Pour le Rapport de Capacité (CEZAYİR-SERAMİK-FABRİKASI-KAPASİTE-RAPORU.xlsx)
+
+**Dans le Chapitre 06 (Matériel et Équipements):**
+1. Extraire les spécifications techniques des équipements principaux
+2. Analyser l'adéquation entre les équipements et les objectifs de production
+3. Élaborer des tableaux comparatifs des performances attendues
+
+**Dans le Chapitre 12 (Stratégie Commerciale):**
+1. Utiliser les données de capacité pour définir les volumes disponibles à la vente
+2. Planifier les approvisionnements du marché en fonction des capacités
+3. Aligner la stratégie de vente avec les contraintes de production
+
+### Pour l'Étude Financière (MF-CEZAYİR-SERAMİK-FABRİKASI-ÇAIŞMASI.-(2).xlsx)
+
+**Dans le Chapitre 10 (Analyse Financière):**
+1. Extraire les données financières clés pour l'analyse de viabilité
+2. Créer des graphiques illustrant les projections financières
+3. Développer une analyse détaillée de la rentabilité du projet
+
+**Dans le Chapitre 15 (Analyse des Risques):**
+1. Utiliser les données financières pour identifier les risques économiques
+2. Effectuer des analyses de sensibilité sur les paramètres critiques
+3. Élaborer des stratégies de mitigation des risques identifiés
 
 ## 5. Gestion des Mises à Jour des Données Techniques
 
