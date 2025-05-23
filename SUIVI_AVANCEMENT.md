@@ -215,6 +215,8 @@ Ces documents permettront d'avancer significativement sur les chapitres concern�
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
 - Les fichiers du chapitre 03 ont été renommés pour suivre la convention de nommage (chapitre_03.md au lieu de chapitre_3.md)
 - Le chapitre 1 (Introduction) a été entièrement rédigé et documenté selon les conventions du projet
+- Un fichier temporaire chapitre_04_complet.md a été créé pour le chapitre 4 mais n'est pas encore finalisé. Ce travail devra être repris et complété dans une prochaine session
+- Un prompt d'analyse des fichiers Excel a été créé dans docs/prompt_analyse_fichiers_excel.md pour faciliter le traitement des données techniques et financières dans une session future
 
 ---
 
