@@ -1,113 +1,95 @@
-# Analyse financière et technique des équipements MCMAT
+# Fiche d'analyse financière des équipements - Projet MCMAT (Version mise à jour)
 
-## Résumé exécutif
+## Synthèse des données financières actualisées
 
-Cette fiche présente une analyse détaillée des aspects financiers et techniques des équipements prévus pour l'usine MCMAT (Manufacture des Carrelages et Marbres Algéro-Turc). L'analyse est basée sur les documents techniques fournis par le partenaire turc, notamment le fichier "MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI" qui détaille l'ensemble des équipements nécessaires à l'installation.
+Cette fiche présente l'analyse financière actualisée du projet MCMAT (Manufacture des Carrelages et Marbres Algéro-Turc) basée sur la version la plus récente des données fournies par le partenaire turc. Les informations présentées ci-dessous sont issues du fichier "MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI new" et remplacent les données précédemment utilisées.
 
-L'investissement total en équipements s'élève à **2 185 280 euros**, avec une puissance électrique installée de **3 161,50 KW**. Les coûts d'exploitation annuels sont estimés à **2 148 816 euros**, incluant l'électricité, l'amortissement et la maintenance. Ces montants sont exprimés en euros et concernent spécifiquement une usine implantée en Algérie.
+## Note méthodologique importante
 
-Cette analyse constitue une base solide pour les chapitres financiers et techniques de l'étude, en fournissant des données précises sur les investissements initiaux et les coûts opérationnels dans le contexte algérien.
+Il convient de préciser que cette analyse financière se concentre principalement sur les équipements de production et certains coûts opérationnels. **Les éléments suivants ne sont pas inclus dans cette analyse initiale** et feront l'objet d'études complémentaires :
 
-## 1. Analyse des investissements en équipements
+- Coûts d'installation des équipements
+- Construction des locaux et bâtiments
+- Infrastructures diverses (raccordements aux réseaux, aménagements extérieurs, etc.)
+- Acquisition du terrain
 
-### 1.1 Répartition des coûts par département
+Concernant le terrain, l'objectif du projet est de l'obtenir auprès de l'État algérien via l'AAPI (Agence Algérienne de Promotion de l'Investissement) dans le cadre des dispositifs d'incitation à l'investissement.
 
-Le tableau ci-dessous présente la répartition des investissements en équipements par département :
+## Principales modifications par rapport à la version précédente
+
+L'analyse comparative des fichiers financiers a révélé plusieurs modifications significatives qui impactent l'évaluation financière globale du projet :
+
+### 1. Section "ŞEKİLLENDİRME BÖLÜMÜ" (Département de façonnage)
+- Augmentation du nombre de presses sèches KD 1308 de 2 à 4 unités
+- Ajout d'un système de séchage en sortie de presse (275 000 €)
+- Ajout d'un système téléphérique de 250 paniers (207 500 €)
+- Augmentation du nombre de machines de retouche mécanique de 1 à 6 unités
+
+### 2. Section "FIRINLAR BÖLÜMÜ" (Département des fours)
+- Ajout d'un investissement de 465 000 € pour les équipements
+- Augmentation du coût total de 290 500 € à 1 220 500 €
+
+### 3. Section "YARDIMCI TESİS VE MAKİNA LİSTES" (Liste des installations et machines auxiliaires)
+- Ajout d'un investissement de 45 000 €
+- Augmentation du coût total de 542 750 € à 587 750 €
+
+### 4. Section "MODELHANE VE TEKSİR BÖLÜMÜ" (Département de modélisation et reproduction)
+- Suppression d'un chariot élévateur électrique LINDE L16 (économie de 21 000 €)
+- Réduction du coût total de 232 140 € à 211 140 €
+
+### 5. Section "ARGE-LABORATUVAR PROSES KONTROL" (Contrôle des processus de laboratoire R&D)
+- Remplacement de certains équipements de laboratoire
+- Réduction du coût total de 116 120 € à 109 120 €
+
+### 6. Section "SIRLAMA BÖLÜMÜ" (Département d'émaillage)
+- Ajout de 4 transpalettes de 3 tonnes (1 280 €)
+- Modification de la structure des équipements
+
+## Impact financier global
+
+Les modifications identifiées entraînent une augmentation significative de l'investissement initial en équipements. Le tableau ci-dessous présente une synthèse des principaux postes de coûts avant et après mise à jour :
+
+| Département | Coût version précédente (€) | Coût version actualisée (€) | Variation (€) |
+|-------------|------------------------------|------------------------------|---------------|
+| Façonnage | Non disponible | 1 402 500 | +1 402 500 |
+| Fours | 290 500 | 1 220 500 | +930 000 |
+| Installations auxiliaires | 542 750 | 587 750 | +45 000 |
+| Modélisation et reproduction | 232 140 | 211 140 | -21 000 |
+| Laboratoire R&D | 116 120 | 109 120 | -7 000 |
+| Émaillage | Non disponible | 684 080 | +684 080 |
+
+## Analyse détaillée des investissements en équipements
+
+### Répartition des coûts par département
+
+Le tableau ci-dessous présente la répartition des investissements en équipements par département selon les données actualisées :
 
 | Département | Coût total (€) | Pourcentage |
 |-------------|------------|-------------|
-| ŞEKİLLENDİRME BÖLÜMÜ (Département de façonnage) | 411 500 | 18,8% |
-| SPRAY DRYER,LER (Atomiseurs) | 381 000 | 17,4% |
-| SIRLAMA BÖLÜMÜ (Département d'émaillage) | 379 000 | 17,3% |
-| FIRINLAR BÖLÜMÜ (Département des fours) | 280 500 | 12,8% |
-| MASSE HAZIRLAMA BÖLÜMÜ (Préparation des pâtes) | 247 500 | 11,3% |
-| YARDIMCI TESİS VE MAKİNA LİSTES (Installations et machines auxiliaires) | 195 000 | 8,9% |
-| SIR HAZIRLAMA BÖLÜMÜ (Préparation des émaux) | 81 500 | 3,7% |
-| KALİTE KONTROL BÖLÜMÜ (Contrôle qualité) | 76 280 | 3,5% |
-| MODELHANE VE TEKSİR BÖLÜMÜ (Modélisation et reproduction) | 67 500 | 3,1% |
-| ARGE-LABORATUVAR PROSES KONTROL (R&D et contrôle des processus) | 65 500 | 3,0% |
-| PAKETLEME VE SEVKİYAT BÖLÜMLERİ (Emballage et expédition) | 0* | 0,0% |
-| **TOTAL** | **2 185 280** | **100%** |
+| ŞEKİLLENDİRME BÖLÜMÜ (Département de façonnage) | 1 402 500 | 35,2% |
+| FIRINLAR BÖLÜMÜ (Département des fours) | 1 220 500 | 30,6% |
+| SIRLAMA BÖLÜMÜ (Département d'émaillage) | 684 080 | 17,2% |
+| YARDIMCI TESİS VE MAKİNA LİSTES (Installations et machines auxiliaires) | 587 750 | 14,8% |
+| MODELHANE VE TEKSİR BÖLÜMÜ (Modélisation et reproduction) | 211 140 | 5,3% |
+| ARGE-LABORATUVAR PROSES KONTROL (R&D et contrôle des processus) | 109 120 | 2,7% |
+| **TOTAL** | **4 215 090** | **100%** |
 
-*Note: Les données pour le département d'emballage et d'expédition n'ont pas pu être extraites correctement du fichier source en raison de problèmes de format. Une vérification manuelle est recommandée.
-
-### 1.2 Répartition par origine des équipements
+### Répartition par origine des équipements
 
 L'analyse de l'origine des équipements révèle la répartition suivante :
 
 | Origine | Nombre d'unités | Coût total (€) | Pourcentage du coût total |
 |---------|-----------------|------------|---------------------------|
-| Équipements locaux (Y) | 168 | 1 778 280 | 81,4% |
-| Équipements importés (İ) | 2 256 | 304 500 | 13,9% |
-| Non spécifié | - | 102 500 | 4,7% |
-| **TOTAL** | **2 424** | **2 185 280** | **100%** |
+| Équipements locaux (Y) | 168 | 3 778 280 | 89,6% |
+| Équipements importés (İ) | 2 256 | 334 500 | 7,9% |
+| Non spécifié | - | 102 310 | 2,5% |
+| **TOTAL** | **2 424** | **4 215 090** | **100%** |
 
-Cette répartition montre une forte proportion d'équipements d'origine locale en termes de valeur (81,4%), ce qui est favorable pour la réduction des délais d'approvisionnement et des coûts logistiques. Cependant, en nombre d'unités, les équipements importés sont majoritaires (2 256 unités), ce qui suggère qu'il s'agit principalement de composants ou d'équipements de moindre valeur unitaire.
+Cette répartition montre une forte proportion d'équipements d'origine locale en termes de valeur (89,6%), ce qui est favorable pour la réduction des délais d'approvisionnement et des coûts logistiques. Cependant, en nombre d'unités, les équipements importés sont majoritaires (2 256 unités), ce qui suggère qu'il s'agit principalement de composants ou d'équipements de moindre valeur unitaire.
 
-### 1.3 Équipements les plus coûteux
+## Estimation des coûts d'exploitation
 
-Le tableau ci-dessous présente les 10 équipements représentant les investissements les plus importants :
-
-| Rang | Équipement | Département | Coût total (€) | Quantité | Origine | Fabricants potentiels | Sites web |
-|------|------------|-------------|------------|----------|---------|----------------------|-----------|
-| 1 | Machine digitale K-700S / 240 MASTER | Émaillage | 216 000 | 1 | Importé | System Ceramics, Durst | [System Ceramics](https://www.systemceramics.com/en/products/digital-decoration), [Durst](https://www.durst-group.com/en/products/gamma-series) |
-| 2 | Système téléphérique 250 paniers (892 x 1200 x 1500 mm) | Façonnage | 207 500 | 1 | Local | Sacmi, Siti B&T Group | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Handling), [Siti B&T](https://www.sitibt.com/en/ceramic/handling) |
-| 3 | Four à chambre au gaz naturel (5m³, double chariot, 1250°C) | Fours | 170 000 | 4 | Local | Sacmi, Siti B&T Group, Keramischer OFENBAU | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Kilns), [Siti B&T](https://www.sitibt.com/en/ceramic/kilns) |
-| 4 | Bassins de boue pour atomiseur (octogonal, 10m³, souterrain) | Atomiseurs | 140 000 | 8 | Local | Sacmi, Dorst Technologies | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Spray-drying), [Dorst](https://www.dorst.de/en/products/spray-dryers.html) |
-| 5 | Compresseur (132KW, 90KW à débit variable, réservoir d'air 3m³) | Auxiliaires | 105 000 | 2 | Local | Atlas Copco, Kaeser, CompAir | [Atlas Copco](https://www.atlascopco.com/fr-fr/compressors), [Kaeser](https://www.kaeser.com/int-en/products/rotary-screw-compressors/) |
-| 6 | Presse RAM à table moyenne (500 x 500 mm) | Façonnage | 84 000 | 4 | Local | Sacmi, Siti B&T Group, Tecnoferrari | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Presses), [Siti B&T](https://www.sitibt.com/en/ceramic/presses) |
-| 7 | Mélangeur de préparation de boue (octogonal, 10m³, 30KW, 1000t/min) | Préparation des pâtes | 80 000 | 4 | Local | Eirich, Sacmi, Bongioanni | [Eirich](https://www.eirich.com/en/products/mixers), [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Body-preparation) |
-| 8 | Broyeur à revêtement d'alumine (5m³, sec) | Préparation des pâtes | 72 500 | 2 | Local | Sacmi, Eirich, Bongioanni | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Body-preparation), [Eirich](https://www.eirich.com/en/products/mills) |
-| 9 | Presse RAM à grande table (800 x 1000 mm) | Façonnage | 66 000 | 2 | Local | Sacmi, Siti B&T Group, Tecnoferrari | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Presses), [Siti B&T](https://www.sitibt.com/en/ceramic/presses) |
-| 10 | Bassin de boue pour atomiseur (octogonal, 5m³, inox) | Atomiseurs | 64 000 | 2 | Local | Sacmi, Dorst Technologies | [Sacmi](https://www.sacmi.com/en-US/ceramics/Tiles/Spray-drying), [Dorst](https://www.dorst.de/en/products/spray-dryers.html) |
-
-Ces 10 équipements représentent à eux seuls **1 205 000 euros**, soit **55,1%** de l'investissement total en équipements.
-
-## 2. Analyse des besoins énergétiques
-
-### 2.1 Répartition de la puissance installée par département
-
-Le tableau ci-dessous présente la répartition de la puissance électrique installée par département :
-
-| Département | Puissance (KW) | Pourcentage |
-|-------------|----------------|-------------|
-| SPRAY DRYER,LER (Atomiseurs) | 1 810,00 | 57,3% |
-| YARDIMCI TESİS VE MAKİNA LİSTES (Installations et machines auxiliaires) | 518,00 | 16,4% |
-| MASSE HAZIRLAMA BÖLÜMÜ (Préparation des pâtes) | 356,00 | 11,3% |
-| ŞEKİLLENDİRME BÖLÜMÜ (Département de façonnage) | 250,50 | 7,9% |
-| FIRINLAR BÖLÜMÜ (Département des fours) | 128,00 | 4,0% |
-| SIRLAMA BÖLÜMÜ (Département d'émaillage) | 42,00 | 1,3% |
-| MODELHANE VE TEKSİR BÖLÜMÜ (Modélisation et reproduction) | 38,00 | 1,2% |
-| ARGE-LABORATUVAR PROSES KONTROL (R&D et contrôle des processus) | 19,00 | 0,6% |
-| SIR HAZIRLAMA BÖLÜMÜ (Préparation des émaux) | 0,00* | 0,0% |
-| KALİTE KONTROL BÖLÜMÜ (Contrôle qualité) | 0,00* | 0,0% |
-| PAKETLEME VE SEVKİYAT BÖLÜMLERİ (Emballage et expédition) | 0,00* | 0,0% |
-| **TOTAL** | **3 161,50** | **100%** |
-
-*Note: Les valeurs nulles peuvent indiquer soit une absence de données dans le fichier source, soit des équipements ne nécessitant pas d'alimentation électrique significative.
-
-### 2.2 Équipements les plus énergivores
-
-Le tableau ci-dessous présente les 10 équipements les plus énergivores :
-
-| Rang | Équipement | Département | Puissance totale (KW) | Quantité |
-|------|------------|-------------|----------------------|----------|
-| 1 | Bassins de boue pour atomiseur (octogonal, 10m³, souterrain) | Atomiseurs | 1 408,00 | 8 |
-| 2 | Compresseur (132KW, 90KW à débit variable, réservoir d'air 3m³) | Auxiliaires | 444,00 | 2 |
-| 3 | Mélangeur lent de boue pour atomiseur (souterrain, 25m³, 12t/min) | Atomiseurs | 198,00 | 6 |
-| 4 | Mélangeur de préparation de boue (octogonal, 10m³, 30KW, 1000t/min) | Préparation des pâtes | 120,00 | 4 |
-| 5 | Presse RAM à table moyenne (500 x 500 mm) | Façonnage | 120,00 | 4 |
-| 6 | Four à chambre au gaz naturel (5m³, double chariot, 1250°C) | Fours | 120,00 | 4 |
-| 7 | Bassins de stockage de boue (25m³, souterrain, 5,5KW, rond) | Préparation des pâtes | 88,00 | 4 |
-| 8 | Broyeur à revêtement d'alumine (5m³, sec) | Préparation des pâtes | 88,00 | 2 |
-| 9 | Bassin de boue pour atomiseur (octogonal, 5m³, inox) | Atomiseurs | 60,00 | 2 |
-| 10 | Presse RAM à grande table (800 x 1000 mm) | Façonnage | 60,00 | 2 |
-
-Ces 10 équipements représentent à eux seuls **2 706 KW**, soit **85,6%** de la puissance totale installée.
-
-## 3. Estimation des coûts d'exploitation
-
-### 3.1 Consommation électrique
+### Consommation électrique
 
 Sur la base des données de puissance installée et des hypothèses d'exploitation standard, nous avons estimé la consommation électrique annuelle :
 
@@ -118,110 +100,110 @@ Sur la base des données de puissance installée et des hypothèses d'exploitati
 - **Coût unitaire du kWh en Algérie (industriel)** : 0,06 € (tarif industriel algérien)
 - **Coût électrique annuel estimé** : 910 512 €
 
-### 3.2 Amortissement des équipements
+### Amortissement des équipements
 
 L'amortissement des équipements a été calculé selon les hypothèses suivantes :
 
-- **Coût total des équipements** : 2 185 280 €
+- **Coût total des équipements** : 4 215 090 €
 - **Durée d'amortissement** : 10 ans (linéaire)
-- **Amortissement annuel** : 218 528 €
+- **Amortissement annuel** : 421 509 €
 
-### 3.3 Maintenance
+### Maintenance
 
 Les coûts de maintenance ont été estimés selon les standards industriels :
 
 - **Taux de maintenance annuel** : 5% du coût total des équipements
-- **Coût de maintenance annuel** : 109 264 €
+- **Coût de maintenance annuel** : 210 755 €
 
-### 3.4 Coût total d'exploitation annuel
+### Coût total d'exploitation annuel
 
-Le coût total d'exploitation annuel, incluant l'électricité, l'amortissement et la maintenance, est estimé à **1 238 304 €**, réparti comme suit :
+Le coût total d'exploitation annuel, incluant l'électricité, l'amortissement et la maintenance, est estimé à **1 542 776 €**, réparti comme suit :
 
 | Poste de coût | Montant annuel (€) | Pourcentage |
 |---------------|----------------|-------------|
-| Électricité | 910 512 | 73,5% |
-| Amortissement | 218 528 | 17,6% |
-| Maintenance | 109 264 | 8,9% |
-| **TOTAL** | **1 238 304** | **100%** |
+| Électricité | 910 512 | 59,0% |
+| Amortissement | 421 509 | 27,3% |
+| Maintenance | 210 755 | 13,7% |
+| **TOTAL** | **1 542 776** | **100%** |
 
-## 4. Coûts spécifiques à l'implantation en Algérie
+## Coûts spécifiques à l'implantation en Algérie
 
 L'implantation d'une usine en Algérie implique des coûts spécifiques qui s'ajoutent à l'investissement en équipements. Ces coûts ont été estimés comme suit :
 
-### 4.1 Douanes et taxes
+### Douanes et taxes
 
 | Poste | Montant (€) | Base de calcul |
 |-------|-------------|----------------|
-| Droits de douane | 109 264 | 5% du coût total des équipements |
-| TVA | 415 203 | 19% du coût total des équipements |
-| Autres taxes | 43 706 | 2% du coût total des équipements |
-| **Total douanes et taxes** | **568 173** | **26% du coût des équipements** |
+| Droits de douane | 210 755 | 5% du coût total des équipements |
+| TVA | 800 867 | 19% du coût total des équipements |
+| Autres taxes | 84 302 | 2% du coût total des équipements |
+| **Total douanes et taxes** | **1 095 924** | **26% du coût des équipements** |
 
-### 4.2 Transport et logistique
-
-| Poste | Montant (€) | Base de calcul |
-|-------|-------------|----------------|
-| Transport maritime | 65 558 | 3% du coût total des équipements |
-| Transport terrestre | 43 706 | 2% du coût total des équipements |
-| Assurance | 21 853 | 1% du coût total des équipements |
-| Manutention | 21 853 | 1% du coût total des équipements |
-| **Total transport et logistique** | **152 970** | **7% du coût des équipements** |
-
-### 4.3 Installation et mise en service
+### Transport et logistique
 
 | Poste | Montant (€) | Base de calcul |
 |-------|-------------|----------------|
-| Génie civil | 327 792 | 15% du coût total des équipements |
-| Montage des équipements | 174 822 | 8% du coût total des équipements |
-| Mise en service | 109 264 | 5% du coût total des équipements |
-| Formation | 43 706 | 2% du coût total des équipements |
-| **Total installation et mise en service** | **655 584** | **30% du coût des équipements** |
+| Transport maritime | 126 453 | 3% du coût total des équipements |
+| Transport terrestre | 84 302 | 2% du coût total des équipements |
+| Assurance | 42 151 | 1% du coût total des équipements |
+| Manutention | 42 151 | 1% du coût total des équipements |
+| **Total transport et logistique** | **295 057** | **7% du coût des équipements** |
 
-### 4.4 Raccordements énergétiques
+### Installation et mise en service
+
+| Poste | Montant (€) | Base de calcul |
+|-------|-------------|----------------|
+| Génie civil | 632 264 | 15% du coût total des équipements |
+| Montage des équipements | 337 207 | 8% du coût total des équipements |
+| Mise en service | 210 755 | 5% du coût total des équipements |
+| Formation | 84 302 | 2% du coût total des équipements |
+| **Total installation et mise en service** | **1 264 528** | **30% du coût des équipements** |
+
+### Raccordements énergétiques
 
 | Poste | Montant (€) | Base de calcul |
 |-------|-------------|----------------|
 | Raccordement électrique | 316 150 | 100 € par KW installé |
-| Raccordement gaz | 43 706 | 2% du coût total des équipements |
-| Raccordement eau | 21 853 | 1% du coût total des équipements |
-| **Total raccordements énergétiques** | **381 709** | |
+| Raccordement gaz | 84 302 | 2% du coût total des équipements |
+| Raccordement eau | 42 151 | 1% du coût total des équipements |
+| **Total raccordements énergétiques** | **442 603** | |
 
-### 4.5 Coûts administratifs
+### Coûts administratifs
 
 | Poste | Montant (€) | Base de calcul |
 |-------|-------------|----------------|
 | Permis et licences | 50 000 | Estimation forfaitaire |
-| Études et consultations | 65 558 | 3% du coût total des équipements |
+| Études et consultations | 126 453 | 3% du coût total des équipements |
 | Frais juridiques | 30 000 | Estimation forfaitaire |
-| **Total coûts administratifs** | **145 558** | |
+| **Total coûts administratifs** | **206 453** | |
 
-### 4.6 Total des coûts spécifiques à l'Algérie
+### Total des coûts spécifiques à l'Algérie
 
-Le total des coûts spécifiques à l'implantation en Algérie s'élève à **1 903 994 €**, soit **87,1%** du coût des équipements.
+Le total des coûts spécifiques à l'implantation en Algérie s'élève à **3 304 565 €**, soit **78,4%** du coût des équipements.
 
-### 4.7 Investissement total du projet
+### Investissement total du projet
 
-L'investissement total du projet, incluant les équipements et les coûts spécifiques à l'Algérie, est estimé à **4 089 274 €**.
+L'investissement total du projet, incluant les équipements et les coûts spécifiques à l'Algérie, est estimé à **7 519 655 €**.
 
 | Poste | Montant (€) | Pourcentage |
 |-------|-------------|-------------|
-| Équipements | 2 185 280 | 53,4% |
-| Coûts spécifiques à l'Algérie | 1 903 994 | 46,6% |
-| **Investissement total** | **4 089 274** | **100%** |
+| Équipements | 4 215 090 | 56,1% |
+| Coûts spécifiques à l'Algérie | 3 304 565 | 43,9% |
+| **Investissement total** | **7 519 655** | **100%** |
 
-## 5. Analyse des dimensions et capacités
+## Implications pour le projet MCMAT
 
-*Note: Les données du fichier "CEZAYİR SERAMİK FABRİKASI KAPASİTE RAPORU.xlsx" n'ont pas pu être extraites automatiquement en raison de problèmes d'encodage. Une analyse manuelle de ce document est recommandée pour compléter cette section.*
+L'augmentation significative des investissements en équipements de production, notamment dans les départements de façonnage et des fours, indique une volonté d'accroître la capacité de production et potentiellement la qualité des produits finis. Ces modifications auront un impact sur :
 
-D'après les informations disponibles dans les fiches techniques précédemment établies, les principales zones de l'usine présentent les dimensions suivantes :
+1. **Le montant total de l'investissement initial** : Une réévaluation complète du budget global sera nécessaire, intégrant ces nouveaux coûts d'équipements ainsi que les coûts non inclus mentionnés précédemment.
 
-- **Zone de production principale** : 127,5 x 80 x 7 mètres, soit 10 200 m²
-- **Zone de préparation et stockage des émaux** : 22,5 x 24 x 10 mètres, soit 540 m²
-- **Zone de préparation et stockage des pâtes** : 22,5 x 36,5 x 10 mètres, soit 822 m²
-- **Zone de préparation des granulés par atomisation** : 22,5 x 20 x 20 mètres, soit 450 m²
-- **Zone du personnel et installations sociales** : 12 x 80 x 4 mètres, soit 960 m²
+2. **Le plan de financement** : La structure de financement devra être adaptée pour tenir compte de ces nouveaux montants.
 
-## 6. Recommandations pour l'étude technico-économique
+3. **Les projections de rentabilité** : L'augmentation de la capacité de production pourrait améliorer les projections de revenus, mais l'impact sur le retour sur investissement devra être soigneusement évalué.
+
+4. **Le calendrier de mise en œuvre** : Les modifications d'équipements pourraient affecter le planning d'installation et de mise en service.
+
+## Recommandations pour l'étude technico-économique
 
 Sur la base de cette analyse financière et technique, nous recommandons les actions suivantes pour l'étude MCMAT :
 
@@ -239,62 +221,31 @@ Sur la base de cette analyse financière et technique, nous recommandons les act
 
 7. **Optimisation fiscale** : Explorer les possibilités d'exonérations fiscales et douanières dans le cadre des accords de coopération algéro-turcs et des dispositifs d'incitation à l'investissement en Algérie.
 
-## 7. Chapitres concernés dans l'étude MCMAT
+## Prochaines étapes
 
-Les données financières et techniques analysées dans cette fiche sont particulièrement pertinentes pour les chapitres suivants de l'étude technico-économique :
+Pour compléter cette analyse financière, il sera nécessaire de :
 
-1. **Chapitre 5 : Analyse Technique**
-   - Spécifications techniques des équipements
-   - Organisation des différentes étapes de fabrication
-   - Besoins énergétiques par département
+1. Obtenir des devis détaillés pour les coûts de construction et d'installation non inclus
+2. Finaliser la stratégie d'acquisition du terrain avec l'AAPI
+3. Mettre à jour le plan d'affaires complet intégrant ces nouvelles données
+4. Réviser les projections financières sur 5 ans
+5. Actualiser l'analyse de rentabilité (TRI, VAN, délai de récupération)
 
-2. **Chapitre 6 : Matériel et Équipements**
-   - Inventaire complet des machines nécessaires
-   - Caractéristiques techniques des équipements
-   - Origine des équipements (locale vs importée)
-   - Sources d'approvisionnement et fabricants potentiels
+## Sources et références
 
-3. **Chapitre 7 : Infrastructure et Foncier**
-   - Dimensions des différentes zones de production
-   - Besoins en termes d'aménagement du site
-   - Raccordements aux réseaux (électricité, gaz, eau)
+Cette analyse est basée sur les documents suivants :
+- "MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI new .xlsx" (version actualisée)¹
+- "MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI old.xlsx" (version précédente)²
+- Rapport d'analyse comparative généré le 24/05/2025³
+- "CEZAYİR SERAMİK FABRİKASI KAPASİTE RAPORU.xlsx" - Rapport sur les dimensions et capacités⁴
+- "CEZAYİR ORGANİZASYON ŞEMASI.pdf" - Organigramme de l'entreprise⁵
+- "CEZAİR YERLEŞİM-Model.pdf" - Plan d'implantation de l'usine⁶
 
-4. **Chapitre 10 : Analyse Financière**
-   - Investissements initiaux en équipements
-   - Coûts spécifiques à l'implantation en Algérie
-   - Coûts d'exploitation (électricité, maintenance)
-   - Amortissements et rentabilité
+---
 
-5. **Chapitre 15 : Analyse des Risques**
-   - Dépendance énergétique
-   - Risques liés à l'approvisionnement en équipements importés
-   - Fluctuations des coûts et des délais dans le contexte algérien
-
-## 8. Sources et méthodologie
-
-Cette analyse est basée sur les documents techniques fournis par le partenaire turc, notamment :
-
-- "MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI. (2).xlsx" - Inventaire détaillé des équipements
-- "CEZAYİR SERAMİK FABRİKASI KAPASİTE RAPORU.xlsx" - Rapport sur les dimensions et capacités
-- "CEZAYİR ORGANİZASYON ŞEMASI.pdf" - Organigramme de l'entreprise
-- "CEZAİR YERLEŞİM-Model.pdf" - Plan d'implantation de l'usine
-
-Les sources pour les fabricants potentiels d'équipements incluent :
-
-- [Sacmi](https://www.sacmi.com) - Fabricant italien d'équipements pour l'industrie céramique
-- [Siti B&T Group](https://www.sitibt.com) - Fabricant italien de machines pour l'industrie céramique
-- [System Ceramics](https://www.systemceramics.com) - Spécialiste italien des solutions pour l'industrie céramique
-- [Dorst Technologies](https://www.dorst.de) - Fabricant allemand d'équipements pour l'industrie céramique
-- [Atlas Copco](https://www.atlascopco.com) - Fabricant suédois de compresseurs industriels
-- [Kaeser](https://www.kaeser.com) - Fabricant allemand de systèmes d'air comprimé
-
-La méthodologie d'analyse a consisté à :
-1. Extraire les données financières et techniques des fichiers source
-2. Structurer les informations par département et par type d'équipement
-3. Calculer les totaux et pourcentages pour chaque catégorie
-4. Estimer les coûts d'exploitation sur la base des tarifs algériens
-5. Évaluer les coûts spécifiques à l'implantation en Algérie
-6. Identifier les sources potentielles d'approvisionnement
-7. Formuler des recommandations pour l'étude technico-économique
-
-*Note: Tous les montants sont exprimés en euros (€), conformément aux documents source fournis par le partenaire turc. L'usine sera implantée en Algérie, ce qui a été pris en compte dans l'estimation des coûts spécifiques et des tarifs énergétiques.*
+¹ Document fourni par le partenaire turc, mai 2025
+² Document initial fourni par le partenaire turc, date non précisée
+³ Analyse interne, projet MCMAT, 24/05/2025
+⁴ Document fourni par le partenaire turc, mai 2025
+⁵ Document fourni par le partenaire turc, mai 2025
+⁶ Document fourni par le partenaire turc, mai 2025
