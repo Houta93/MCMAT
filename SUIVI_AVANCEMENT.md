@@ -10,7 +10,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 01 | Introduction | Terminé | 100% | 22/05/2025 |
 | 02 | Contexte Économique | Terminé | 100% | 22/05/2025 |
 | 03 | Relations Algéro-Turques | Terminé | 100% | 28/03/2025 |
-| 04 | Secteur des Matériaux de Construction | Non commencé | 0% | - |
+| 04 | Secteur des Matériaux de Construction | En cours | 25% | 23/05/2025 |
 | 05 | Analyse Technique | Non commencé | 0% | - |
 | 06 | Matériel et Équipements | Non commencé | 0% | - |
 | 07 | Infrastructure et Foncier | Non commencé | 0% | - |
@@ -176,6 +176,36 @@ Par ordre de priorité :
 3. **Utiliser les templates pour les chapitres techniques**
    - Appliquer les templates créés pour les chapitres qui nécessiteront les informations de l'associé
 
+## Nouvelles ressources techniques reçues
+
+Le 3 mai 2025, deux documents techniques importants ont été reçus :
+
+1. **Plan d'implantation de l'usine (CEZAİR-YERLEŞİM-Model.pdf)**
+   - Document présentant le plan détaillé de l'usine MCMAT
+   - Chapitres concernés : 05, 06 et 07
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/plan_usine_reference.md`
+
+2. **Organigramme de l'entreprise (CEZAYİR-ORGANİZASYON-ŞEMASI.pdf)**
+   - Document présentant la structure organisationnelle complète de MCMAT
+   - Chapitres concernés : 09, 14 et partiellement 05
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/organigramme_reference.md`
+
+Le 23 mai 2025, deux documents financiers et techniques supplémentaires ont été reçus :
+
+3. **Rapport de capacité de l'usine (CEZAYİR-SERAMİK-FABRİKASI-KAPASİTE-RAPORU.xlsx)**
+   - Document détaillant les capacités de production de l'usine
+   - Chapitres concernés : 05, 06, 10 et 12
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/capacite_production_reference.md`
+
+4. **Étude financière détaillée (MF-CEZAYİR-SERAMİK-FABRİKASI-ÇAIŞMASI.-(2).xlsx)**
+   - Document présentant l'analyse financière complète du projet
+   - Chapitres concernés : 08, 09, 10, 14 et 15
+   - Une fiche de référence a été créée dans `docs/donnees_techniques/etude_financiere_reference.md`
+
+Un guide méthodologique a été créé pour encadrer l'utilisation de ces données techniques dans le processus de rédaction. Il est disponible dans `docs/guides/utilisation_donnees_techniques.md`.
+
+Ces documents permettront d'avancer significativement sur les chapitres concernés, notamment les chapitres 05 (Analyse Technique) et 10 (Analyse Financière) qui figurent parmi les priorités de développement.
+
 ## Notes et observations
 
 - La signification correcte de MCMAT est "Manufacture des Carrelages et Marbres Algéro-Turc"
@@ -185,10 +215,11 @@ Par ordre de priorité :
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
 - Les fichiers du chapitre 03 ont été renommés pour suivre la convention de nommage (chapitre_03.md au lieu de chapitre_3.md)
 - Le chapitre 1 (Introduction) a été entièrement rédigé et documenté selon les conventions du projet
+- Un fichier temporaire chapitre_04_complet.md a été créé pour le chapitre 4 mais n'est pas encore finalisé. Ce travail devra être repris et complété dans une prochaine session
+- Un prompt d'analyse des fichiers Excel a été créé dans docs/prompt_analyse_fichiers_excel.md pour faciliter le traitement des données techniques et financières dans une session future
 
 ---
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 22 mai 2025 - 17:30*| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
-| 01 | \Uintroduction | En cours | 50% | 22/05/2025 |
+*Dernière mise à jour : 23 mai 2025 - 14:30*
