@@ -10,7 +10,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 01 | Introduction | Terminé | 100% | 22/05/2025 |
 | 02 | Contexte Économique | Terminé | 100% | 22/05/2025 |
 | 03 | Relations Algéro-Turques | Terminé | 100% | 28/03/2025 |
-| 04 | Secteur des Matériaux de Construction | En cours | 25% | 23/05/2025 |
+| 04 | Secteur des Matériaux de Construction | Terminé | 100% | 06/06/2025 |
 | 05 | Analyse Technique | Non commencé | 0% | - |
 | 06 | Matériel et Équipements | Non commencé | 0% | - |
 | 07 | Infrastructure et Foncier | Non commencé | 0% | - |
@@ -222,4 +222,4 @@ Ces documents permettront d'avancer significativement sur les chapitres concern�
 
 *Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
 
-*Dernière mise à jour : 23 mai 2025 - 14:30*
+*Dernière mise à jour : 06 juin 2025 - 20:51*

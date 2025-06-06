@@ -25,7 +25,7 @@
 - [x] Rédiger le chapitre 1 (Introduction)
 - [x] Rédiger le chapitre 2 (Contexte économique)
 - [x] Rédiger le chapitre 3 (Relations algéro-turques)
-- [ ] Rédiger le chapitre 4 (Secteur des matériaux de construction)
+- [x] Rédiger le chapitre 4 (Secteur des matériaux de construction)
 - [ ] Rédiger le chapitre 5 (Analyse technique)
 - [ ] Rédiger le chapitre 6 (Matériel et équipements)
 - [ ] Rédiger le chapitre 7 (Infrastructure et foncier)
