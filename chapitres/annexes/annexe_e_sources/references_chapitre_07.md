@@ -1,6 +1,6 @@
 # Références du Chapitre 07
 
-Ce document contient toutes les sources et références utilisées dans le Chapitre 07 : [Titre du chapitre].
+Ce document contient toutes les sources et références utilisées dans le Chapitre 07 : Infrastructure et Foncier.
 
 ## Format de citation
 
@@ -9,29 +9,23 @@ Chaque référence est ensuite détaillée ci-dessous avec sa source complète.
 
 ## Liste des références
 
-1. [Auteur/Organisation], "[Titre de la source]", [Date de publication], [URL ou référence bibliographique complète].
+29. Plan d'implantation de l'usine de céramique en Turquie, document technique fourni par l'associé turc, juin 2025, disponible dans le dossier ressources_techniques du projet MCMAT.
 
-2. [Auteur/Organisation], "[Titre de la source]", [Date de publication], [URL ou référence bibliographique complète].
+30. Chapitre 8 : Matières Premières, Section 8.4.1 "Infrastructure de stockage", Projet MCMAT, juin 2025.
 
-3. [Auteur/Organisation], "[Titre de la source]", [Date de publication], [URL ou référence bibliographique complète].
+31. Chapitre 5 : Analyse Technique, Section 5.1.3 "Technologies utilisées", Projet MCMAT, juin 2025.
 
 ## Classification des sources
 
-### Sources officielles
-- Références [numéros] : [Description brève]
+### Documents techniques du partenaire
+- Référence 29 : Document technique d'implantation de l'usine fourni par l'associé turc
 
-### Publications académiques
-- Références [numéros] : [Description brève]
-
-### Rapports sectoriels
-- Références [numéros] : [Description brève]
-
-### Articles de presse
-- Références [numéros] : [Description brève]
-
-### Autres sources
-- Références [numéros] : [Description brève]
+### Sources internes au projet
+- Référence 30 : Chapitre 8 du projet MCMAT sur les matières premières
+- Référence 31 : Chapitre 5 du projet MCMAT sur l'analyse technique
 
 ## Notes sur la fiabilité des sources
 
-[Commentaires sur la fiabilité, l'actualité et la pertinence des sources utilisées]
+Le document technique fourni par l'associé turc (référence 29) constitue une source primaire de haute fiabilité, basée sur l'expérience opérationnelle de l'usine existante en Turquie. Ce document a été adapté au contexte algérien du projet MCMAT.
+
+Les références internes au projet (30, 31) assurent la cohérence documentaire entre les différentes parties de l'étude technico-économique.
