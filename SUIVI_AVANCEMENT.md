@@ -15,7 +15,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 06 | Matériel et Équipements | Terminé | 100% | 06/06/2025 |
 | 07 | Infrastructure et Foncier | Terminé | 100% | 06/06/2025 |
 | 08 | Matières Premières | Terminé | 100% | 06/06/2025 |
-| 09 | Ressources Humaines | Non commencé | 0% | - |
+| 09 | Ressources Humaines | Terminé | 100% | 08/06/2025 |
 | 10 | Planification de la Production | Terminé | 100% | 06/06/2025 |
 | 11 | Analyse Financière | Non commencé | 0% | - |
 | 12 | Analyse des Marchés | Non commencé | 0% | - |
@@ -25,7 +25,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 16 | Analyse des Risques | Non commencé | 0% | - |
 | 17 | Conclusion | Non commencé | 0% | - |
 | 18 | Perspectives de Développement | Non commencé | 0% | - |
-| Annexes | Annexes A à E | En cours | 65% | 06/06/2025 |
+| Annexes | Annexes A à E | En cours | 70% | 08/06/2025 |
 
 ## Détails par chapitre
 
@@ -227,6 +227,31 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 - Données de l'Office National des Statistiques sur les ressources minérales
 - Standards de l'industrie céramique pour les spécifications techniques
 
+### Chapitre 9 : Ressources Humaines
+
+**État** : ✅ Terminé
+
+**Contenu réalisé** :
+- Structure organisationnelle complète basée sur l'organigramme fourni
+- Analyse détaillée des besoins en personnel par département
+- Définition des profils de poste et compétences requises
+- Stratégies de recrutement et de formation
+- Politique de rémunération et avantages sociaux
+- Gestion des carrières et développement des compétences
+- Relations sociales et dialogue
+- Santé, sécurité et conditions de travail
+- Transfert de compétences dans le cadre du partenariat algéro-turc
+
+**Points à compléter ou améliorer** :
+- Affiner les estimations de coûts salariaux si de nouvelles données deviennent disponibles
+- Approfondir les aspects liés à la formation spécifique aux technologies céramiques
+
+**Sources utilisées** :
+- Organigramme fourni par l'associé turc (CEZAYİR ORGANİZASYON ŞEMASI.pdf)
+- Données de l'Office National des Statistiques sur l'emploi en Algérie
+- Réglementations algériennes en matière de droit du travail
+- Études sectorielles sur les ressources humaines dans l'industrie manufacturière
+
 ### Chapitre 10 : Planification de la Production
 
 **État** : ✅ Terminé
@@ -252,13 +277,13 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 ### Annexe E : Sources et Références
 
-**État** : ⏳ En cours (65%)
+**État** : ⏳ En cours (70%)
 
 **Contenu réalisé** :
 - Création du système de référencement avec numérotation en exposant
 - Mise en place des fichiers de références pour tous les chapitres
 - Standardisation du format des références
-- Rédaction complète des références pour les chapitres 00, 01, 02, 03, 04, 05, 06, 07, 08 et 10
+- Rédaction complète des références pour les chapitres 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 et 10
 
 **Points à compléter ou améliorer** :
 - Continuer à enrichir les références au fur et à mesure de l'avancement des chapitres restants
@@ -300,20 +325,20 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 Par ordre de priorité :
 
-1. **Développer le chapitre 9 sur les Ressources Humaines**
-   - S'appuyer sur l'organigramme fourni par l'associé turc
-   - Analyser les besoins en personnel par département
-   - Définir les profils de poste et les compétences requises
-
-2. **Aborder le chapitre 11 sur l'Analyse Financière**
+1. **Aborder le chapitre 11 sur l'Analyse Financière**
    - Utiliser les données financières fournies dans les fichiers Excel
    - Élaborer les projections financières complètes
    - Analyser la rentabilité et la viabilité économique du projet
 
-3. **Développer les chapitres sur la stratégie commerciale et l'analyse des marchés**
+2. **Développer les chapitres sur la stratégie commerciale et l'analyse des marchés**
    - S'appuyer sur les données du chapitre 4 pour approfondir l'analyse
    - Définir le positionnement commercial et la stratégie marketing
    - Élaborer un plan commercial détaillé
+
+3. **Compléter les chapitres sur le cadre juridique et la gouvernance**
+   - Analyser en détail le cadre réglementaire algérien
+   - Définir la structure actionnariale optimale
+   - Élaborer les principes de gouvernance du projet
 
 ## Nouvelles ressources techniques reçues
 
@@ -338,7 +363,7 @@ Le 23 mai 2025, deux documents financiers et techniques supplémentaires ont ét
 
 4. **Étude financière détaillée (MF-CEZAYİR-SERAMİK-FABRİKASI-ÇAIŞMASI.-(2).xlsx)**
    - Document présentant l'analyse financière complète du projet
-   - Chapitres concernés : 08, 09, 10, 14 et 15
+   - Chapitres concernés : 08, 09, 10, 11 et 15
    - Une fiche de référence a été créée dans `docs/donnees_techniques/etude_financiere_reference.md`
 
 Le 6 juin 2025, deux nouveaux documents techniques ont été reçus :
@@ -355,7 +380,7 @@ Le 6 juin 2025, deux nouveaux documents techniques ont été reçus :
 
 Un guide méthodologique a été créé pour encadrer l'utilisation de ces données techniques dans le processus de rédaction. Il est disponible dans `docs/guides/utilisation_donnees_techniques.md`.
 
-Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08 et 10, qui constituent le cœur technique du projet MCMAT.
+Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qui constituent le cœur technique du projet MCMAT.
 
 ## Notes et observations
 
@@ -363,14 +388,5 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08 et 10, qui co
 - L'approche adoptée est séquentielle, avec finalisation de chaque chapitre avant de passer au suivant
 - Toutes les sources sont rigoureusement documentées avec le système de numérotation en exposant
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
-- La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif et séquentiel
-- Les fichiers du chapitre 03 ont été renommés pour suivre la convention de nommage (chapitre_03.md au lieu de chapitre_3.md)
-- Les chapitres techniques (05, 06, 07, 08 et 10) ont été entièrement rédigés et documentés selon les conventions du projet
-- L'intégration des données techniques a été réalisée en respectant la cohérence entre les chapitres
-- Les références croisées entre chapitres ont été systématiquement mises à jour dans l'annexe E
-
----
-
-*Ce document sera mis à jour automatiquement après chaque commit de chapitre pour refléter l'avancement du projet.*
-
-*Dernière mise à jour : 06 juin 2025 - 21:31*
+- La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif
+- L'étude est désormais complétée à 55% (10 chapitres sur 18 terminés)
