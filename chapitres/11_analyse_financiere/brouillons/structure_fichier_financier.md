@@ -1,0 +1,17 @@
+# Structure du fichier financier principal
+
+Fichier: 
+
+## Feuilles contenues dans le fichier:
+
+1. YARDIMCI TESİS VE MAKİNA LİSTES
+2. SPRAY DRYER,LER
+3. MASSE HAZIRLAMA BÖLÜMÜ
+4. SIR HAZIRLAMA BÖLÜMÜ
+5. ŞEKİLLENDİRME BÖLÜMÜ
+6. FIRINLAR BÖLÜMÜ
+7. SIRLAMA BÖLÜMÜ
+8. KALİTE KONTROL BÖLÜMÜ
+9. PAKETLEME VE SEVKİYAT BÖLÜMLERİ
+10. MODELHANE VE TEKSİR BÖLÜMÜ
+11. ARGE-LABORATUVAR PROSES KONTROL
