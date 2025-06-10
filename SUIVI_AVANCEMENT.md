@@ -394,3 +394,4 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qu
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
+| 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
