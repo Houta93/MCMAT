@@ -13,7 +13,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 04 | Secteur des Matériaux de Construction | Terminé | 100% | 06/06/2025 |
 | 05 | Analyse Technique | Terminé | 100% | 06/06/2025 |
 | 06 | Matériel et Équipements | Terminé | 100% | 06/06/2025 |
-| 07 | Infrastructure et Foncier | Terminé | 100% | 06/06/2025 |
+| 07 | Infrastructure et Foncier | Terminé | 100% | 10/06/2025 |
 | 08 | Matières Premières | Terminé | 100% | 06/06/2025 |
 | 09 | Ressources Humaines | Terminé | 100% | 08/06/2025 |
 | 10 | Planification de la Production | Terminé | 100% | 06/06/2025 |
@@ -395,3 +395,4 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qu
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
+| 07 | \Uinfrastructure foncier | En cours | 50% | 10/06/2025 |

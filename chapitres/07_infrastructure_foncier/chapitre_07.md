@@ -48,7 +48,6 @@ La sélection du site d'implantation doit répondre à plusieurs critères essen
 - Possibilité d'obtention des autorisations environnementales
 
 **Critères économiques :**
-- Coût du foncier compatible avec le budget d'investissement
 - Disponibilité des utilités à des coûts raisonnables
 - Avantages fiscaux potentiels liés à certaines zones d'implantation
 
@@ -58,15 +57,15 @@ Plusieurs options d'implantation ont été identifiées et évaluées :
 
 **Option 1 : Zone industrielle de Rouiba (Alger)**
 - Avantages : Proximité du port d'Alger, infrastructures développées, main-d'œuvre qualifiée disponible
-- Inconvénients : Coût élevé du foncier, congestion routière, disponibilité limitée de grandes parcelles
+- Inconvénients : Congestion routière, disponibilité limitée de grandes parcelles
 
 **Option 2 : Zone industrielle de Sétif**
-- Avantages : Position centrale, bonne desserte routière, coût du foncier modéré, proximité de sources de matières premières
+- Avantages : Position centrale, bonne desserte routière, proximité de sources de matières premières
 - Inconvénients : Éloignement relatif des ports, infrastructures à renforcer
 
 **Option 3 : Zone industrielle d'Oran**
 - Avantages : Proximité du port d'Oran, infrastructures de qualité, accès au marché de l'ouest algérien
-- Inconvénients : Éloignement des sources de certaines matières premières, coût du foncier assez élevé
+- Inconvénients : Éloignement des sources de certaines matières premières
 
 Une analyse multicritères détaillée sera nécessaire pour la sélection finale du site, en collaboration avec les autorités locales et les partenaires du projet.
 
@@ -300,12 +299,7 @@ Cette approche évolutive garantit la pérennité de l'investissement et la capa
 
 ### 7.7.1 Coûts du foncier
 
-Le coût du foncier varie significativement selon la localisation choisie. Sur la base des prix moyens constatés dans les zones industrielles algériennes, une estimation préliminaire est établie :
-- Option 1 (Rouiba) : 4.000-5.000 DA/m², soit environ 1,0-1,25 million € pour 25.000 m²
-- Option 2 (Sétif) : 2.500-3.500 DA/m², soit environ 0,6-0,9 million € pour 25.000 m²
-- Option 3 (Oran) : 3.500-4.500 DA/m², soit environ 0,9-1,1 million € pour 25.000 m²
-
-Ces estimations devront être affinées lors des négociations avec les autorités locales, qui peuvent proposer des conditions préférentielles pour les projets industriels structurants.
+Conformément aux directives du projet, le terrain nécessaire à l'implantation de l'usine sera attribué par l'État algérien (via l'AAPI) à titre gratuit ou à un loyer symbolique (de l'ordre du dinar par m²). Par conséquent, **aucun coût d'acquisition de terrain n'est inclus dans les investissements initiaux du projet MCMAT.** Seuls les coûts d'aménagement et de viabilisation du site seront pris en compte dans les sections suivantes.
 
 ### 7.7.2 Coûts de construction
 
@@ -336,31 +330,5 @@ Les coûts des infrastructures techniques sont estimés comme suit :
 | Infrastructures informatiques | 150.000-250.000 |
 | **Total** | **1.950.000-2.750.000** |
 
-Ces estimations sont basées sur des projets similaires réalisés en Algérie et dans la région, et devront être affinées lors des études détaillées.
+Ces estimations sont basées sur des projets similaires réalisés en Algérie et dans la région, et devront être affinées lors des études détaillées. Les coûts d'installation des équipements sont inclus dans le chapitre 6.
 
-### 7.7.4 Synthèse des investissements
-
-La synthèse des investissements pour l'infrastructure et le foncier est la suivante :
-
-| Poste | Coût estimé (€) | % du total |
-|-------|-----------------|------------|
-| Foncier | 600.000-1.250.000 | 7-11% |
-| Construction | 6.135.000-7.190.000 | 70-71% |
-| Infrastructures techniques | 1.950.000-2.750.000 | 22-24% |
-| **Total** | **8.685.000-11.190.000** | **100%** |
-
-Ces investissements représentent environ 40-45% de l'investissement total du projet, le reste étant principalement constitué par les équipements de production.
-
-## Conclusion
-
-L'analyse détaillée des besoins en infrastructure et foncier pour le projet MCMAT démontre la faisabilité technique de l'implantation d'une unité de production moderne en Algérie. Les solutions proposées s'inspirent de l'expérience réussie de l'usine turque existante, tout en intégrant les adaptations nécessaires au contexte local.
-
-Le dimensionnement des bâtiments et des infrastructures techniques est optimisé pour les besoins actuels du projet, tout en prévoyant les possibilités d'évolution future. Les aspects réglementaires et environnementaux ont été pris en compte pour garantir la conformité du projet aux exigences algériennes.
-
-L'investissement total pour l'infrastructure et le foncier est estimé entre 8,7 et 11,2 millions d'euros, représentant une part significative de l'investissement global du projet. Ce montant est cohérent avec l'ambition du projet et la qualité des infrastructures nécessaires pour une production de carrelages et marbres aux standards internationaux.
-
-Le chapitre suivant abordera en détail les aspects liés aux matières premières, élément essentiel pour la qualité des produits et la performance économique de l'entreprise.
-
----
-
-[Notes et références à documenter dans annexe_e_sources]
