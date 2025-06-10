@@ -391,3 +391,4 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qu
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif
 - L'étude est désormais complétée à 55% (10 chapitres sur 18 terminés)
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
+| 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
