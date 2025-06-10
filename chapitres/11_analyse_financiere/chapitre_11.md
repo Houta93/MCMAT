@@ -53,6 +53,14 @@ Les coûts d'investissement initiaux du projet MCMAT sont réévalués en tenant
 
 Les coûts de construction des bâtiments et infrastructures seront estimés en fonction des prix du marché algérien, qui sont plus compétitifs. Cette section détaillera les postes de dépenses liés au gros œuvre, second œuvre, VRD (Voirie et Réseaux Divers) et aménagements spécifiques à une usine de céramique.
 
+Les coûts de construction sont estimés comme suit, en tenant compte des spécificités des structures et des hauteurs :
+
+| Poste | Surface (m²) | Coût unitaire (DA/m²) | Coût total (DA) | Coût total (€) (estimation) |
+|-----------------------------------|--------------|-----------------------|-------------------|-----------------------------|
+| Bâtiments administratifs et sociaux (béton) | 2.000 | 25.000 | 50.000.000 | 344.828 |
+| Zone de production et stockage (structure métallique) | 13.000 | 40.000 | 520.000.000 | 3.586.207 |
+| **Total Construction** | **15.000** | | **570.000.000** | **3.931.035** |
+
 ### 11.3.2 Coûts des Équipements
 
 Cette section présentera la liste détaillée des équipements nécessaires à la production, avec leurs coûts unitaires et totaux, extraits du fichier `MF CEZAYİR SERAMİK FABRİKASI ÇAIŞMASI new.xlsx`. Une distinction sera faite entre les équipements acquis par leasing et ceux financés par achat bancaire.
@@ -112,5 +120,4 @@ Cette section évaluera la performance financière du projet à travers des indi
 ## 11.7 Conclusion
 
 Synthèse des résultats de l'analyse financière, mettant en évidence la viabilité et la rentabilité du projet MCMAT, ainsi que les principaux facteurs de succès et les risques résiduels. Des recommandations seront formulées pour optimiser la performance financière et assurer la pérennité du projet.
-
 
