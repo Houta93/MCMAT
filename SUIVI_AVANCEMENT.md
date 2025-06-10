@@ -325,7 +325,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 
 Par ordre de priorité :
 
-1. **Aborder le chapitre 11 sur l'Analyse Financière**
+1. **Aborder le- [ ] Chapitre 11 : Analyse Financière (en cours)*
    - Utiliser les données financières fournies dans les fichiers Excel
    - Élaborer les projections financières complètes
    - Analyser la rentabilité et la viabilité économique du projet
@@ -390,3 +390,4 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qu
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif
 - L'étude est désormais complétée à 55% (10 chapitres sur 18 terminés)
+| 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
