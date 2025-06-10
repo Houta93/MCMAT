@@ -17,7 +17,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 08 | Matières Premières | Terminé | 100% | 06/06/2025 |
 | 09 | Ressources Humaines | Terminé | 100% | 08/06/2025 |
 | 10 | Planification de la Production | Terminé | 100% | 06/06/2025 |
-| 11 | Analyse Financière | Non commencé | 0% | - |
+| 11 | Analyse Financière | En cours | 50% | 10/06/2025 |
 | 12 | Analyse des Marchés | Non commencé | 0% | - |
 | 13 | Stratégie Commerciale | Non commencé | 0% | - |
 | 14 | Cadre Juridique et Réglementaire | Non commencé | 0% | - |
@@ -390,6 +390,7 @@ Ces documents ont permis de finaliser les chapitres 05, 06, 07, 08, 09 et 10, qu
 - Les informations manquantes seront complétées après réception des réponses au questionnaire de l'associé
 - La nouvelle structure standardisée des dossiers de chapitres facilite le travail collaboratif
 - L'étude est désormais complétée à 55% (10 chapitres sur 18 terminés)
+| 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
 | 11 | \Uanalyse financiere | En cours | 50% | 10/06/2025 |
