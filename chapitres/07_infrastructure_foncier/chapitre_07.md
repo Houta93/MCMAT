@@ -12,17 +12,13 @@ Les choix d'infrastructure et de foncier ont un impact direct sur les investisse
 
 ### 7.1.1 Surface totale requise
 
-Sur la base du plan d'implantation de l'usine turque²⁹ et des équipements identifiés dans le chapitre 6, la surface totale requise pour le projet MCMAT est estimée à environ 25.000 m². Cette surface se décompose comme suit :
+Sur la base du plan d'implantation de l'usine turque²⁹ et des équipements identifiés dans le chapitre 6, la surface totale requise pour le projet MCMAT est estimée à environ 15.000 m². Cette surface se décompose comme suit :
 
 | Zone | Surface (m²) | % du total |
 |------|--------------|------------|
-| Bâtiments de production | 12.000 | 48% |
-| Stockage extérieur des matières premières | 3.500 | 14% |
-| Stockage des produits finis | 2.500 | 10% |
-| Zones de circulation et manœuvre | 3.000 | 12% |
-| Parkings et accès | 1.500 | 6% |
-| Espaces verts et réserve foncière | 2.500 | 10% |
-| **Total** | **25.000** | **100%** |
+| Bâtiments de production (structure métallique) | 13.000 | 86.7% |
+| Bâtiments administratifs et sociaux (béton) | 2.000 | 13.3% |
+| **Total** | **15.000** | **100%** |
 
 Cette estimation prend en compte les besoins actuels du projet ainsi qu'une marge pour les extensions futures, conformément à la stratégie de développement à long terme de l'entreprise.
 
@@ -73,11 +69,11 @@ Une analyse multicritères détaillée sera nécessaire pour la sélection final
 
 ### 7.2.1 Bâtiments de production
 
-Le bâtiment principal de production, d'une surface d'environ 12.000 m², est conçu pour abriter l'ensemble des équipements de production décrits dans le chapitre 6. Sa conception s'inspire de l'usine turque existante²⁹, avec des adaptations pour le contexte algérien.
+Le bâtiment principal de production, d'une surface d'environ 13.000 m², est conçu pour abriter l'ensemble des équipements de production décrits dans le chapitre 6. Sa conception s'inspire de l'usine turque existante²⁹, avec des adaptations pour le contexte algérien.
 
 **Caractéristiques principales :**
 - Structure : Charpente métallique avec poteaux en béton armé
-- Hauteur sous ferme : 8 à 12 mètres selon les zones
+- Hauteur sous ferme : 7 à 20 mètres selon les zones
 - Toiture : Bac acier isolé avec lanterneaux pour l'éclairage naturel
 - Sol : Dalle béton haute résistance (charge admissible 5 tonnes/m²)
 - Cloisonnements intérieurs : Séparation des zones poussiéreuses et des zones propres
@@ -95,7 +91,7 @@ Des fondations spécifiques sont prévues pour les équipements lourds (presses,
 
 ### 7.2.2 Bâtiments administratifs et sociaux
 
-Les bâtiments administratifs et sociaux, d'une surface totale d'environ 1.500 m², comprennent :
+Les bâtiments administratifs et sociaux, d'une surface totale d'environ 2.000 m², comprennent :
 
 **Bâtiment administratif (800 m²) :**
 - Bureaux de direction et d'administration
@@ -103,7 +99,7 @@ Les bâtiments administratifs et sociaux, d'une surface totale d'environ 1.500 m
 - Bureau d'études et R&D
 - Showroom pour l'exposition des produits
 
-**Bâtiments sociaux (700 m²) :**
+**Bâtiments sociaux (1.200 m²) :**
 - Vestiaires et sanitaires
 - Réfectoire et cuisine
 - Salle de repos
@@ -303,16 +299,13 @@ Conformément aux directives du projet, le terrain nécessaire à l'implantation
 
 ### 7.7.2 Coûts de construction
 
-Les coûts de construction sont estimés comme suit :
+Les coûts de construction sont estimés comme suit, en tenant compte des spécificités des structures et des hauteurs :
 
-| Poste | Surface/Quantité | Coût unitaire (€/m²) | Coût total (€) |
-|-------|------------------|----------------------|----------------|
-| Bâtiment de production | 12.000 m² | 350-400 | 4.200.000-4.800.000 |
-| Bâtiments administratifs et sociaux | 1.500 m² | 500-600 | 750.000-900.000 |
-| Zones de stockage couvertes | 2.500 m² | 250-300 | 625.000-750.000 |
-| Voiries et réseaux | 5.000 m² | 80-100 | 400.000-500.000 |
-| Aménagements extérieurs | 4.000 m² | 40-60 | 160.000-240.000 |
-| **Total** | | | **6.135.000-7.190.000** |
+| Poste | Surface (m²) | Coût unitaire (DA/m²) | Coût total (DA) | Coût total (€) (estimation) |
+|-----------------------------------|--------------|-----------------------|-------------------|-----------------------------|
+| Bâtiments administratifs et sociaux (béton) | 2.000 | 25.000 | 50.000.000 | 344.828 |
+| Zone de production et stockage (structure métallique) | 13.000 | 40.000 | 520.000.000 | 3.586.207 |
+| **Total Construction** | **15.000** | | **570.000.000** | **3.931.035** |
 
 Ces coûts incluent les travaux de gros œuvre, second œuvre, et les aménagements intérieurs, mais excluent les équipements de production qui sont traités dans le chapitre 6.
 
