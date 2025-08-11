@@ -18,7 +18,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 09 | Ressources Humaines | Terminé | 100% | 08/06/2025 |
 | 10 | Planification de la Production | Terminé | 100% | 06/06/2025 |
 | 11 | Analyse Financière | Terminé | 100% | 10/06/2025 |
-| 12 | Analyse des Marchés | En cours | 50% | 08/08/2025 |
+| 12 | Analyse des Marchés | Terminé | 100% | 08/08/2025 |
 | 13 | Stratégie Commerciale | Non commencé | 0% | - |
 | 14 | Cadre Juridique et Réglementaire | Non commencé | 0% | - |
 | 15 | Structure Actionnariale et Gouvernance | Non commencé | 0% | - |
