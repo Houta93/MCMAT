@@ -19,7 +19,7 @@ Ce document sert de fil directeur pour le développement de l'étude technico-é
 | 10 | Planification de la Production | Terminé | 100% | 06/06/2025 |
 | 11 | Analyse Financière | Terminé | 100% | 10/06/2025 |
 | 12 | Analyse des Marchés | Terminé | 100% | 08/08/2025 |
-| 13 | Stratégie Commerciale | Non commencé | 0% | - |
+| 13 | Stratégie Commerciale | Terminé | 100% | 08/08/2025 |
 | 14 | Cadre Juridique et Réglementaire | Non commencé | 0% | - |
 | 15 | Structure Actionnariale et Gouvernance | Non commencé | 0% | - |
 | 16 | Analyse des Risques | Non commencé | 0% | - |
